@@ -1,0 +1,3982 @@
+[
+  {
+    "timestamp": 1789275336712,
+    "reload_number": 1,
+    "total_ms": 2512,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 193
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 40
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 2
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 104
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 273
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 655
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 143
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 106
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 166
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 12
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 32
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 78
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 571
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 95
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 33
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 20
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 13
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 13
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789275334201
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789275334238
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789275334438
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789275334548
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789275335935
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789275336013
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789275336549
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789275336553
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789275336585
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789275336585
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789275336679
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789275336679
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789275336699
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789275336712
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789275336712
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789275336712
+      }
+    ]
+  },
+  {
+    "timestamp": 1789277433603,
+    "reload_number": 1,
+    "total_ms": 10308,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 538
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 200
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 18
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 25
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 436
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 408
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 3223
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 365
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 207
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 1121
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 415
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 34
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 97
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 424
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 2291
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 354
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 10
+      },
+      {
+        "name": "complete",
+        "duration_ms": 136
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 63
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 67
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 67
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789277423297
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789277423367
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789277424081
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789277424523
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789277430388
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789277430812
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789277432890
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789277432937
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789277433103
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789277433113
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789277433467
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789277433467
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789277433535
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789277433603
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789277433603
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789277433603
+      }
+    ]
+  },
+  {
+    "timestamp": 1789285573123,
+    "reload_number": 1,
+    "total_ms": 2868,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 229
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 43
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 2
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 84
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 121
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 919
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 259
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 34
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 149
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 230
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 21
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 57
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 79
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 4
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 509
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 82
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 38
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 28
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 9
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 9
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789285570263
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789285570298
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789285570533
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789285570617
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789285572411
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789285572494
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789285572928
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789285572946
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789285573003
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789285573003
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789285573085
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789285573085
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789285573113
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789285573123
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789285573123
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789285573123
+      }
+    ]
+  },
+  {
+    "timestamp": 1789289195399,
+    "reload_number": 1,
+    "total_ms": 5219,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 312
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 46
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 5
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 5
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 6
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 13
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 164
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 190
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 1574
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 560
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 290
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 743
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 30
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 76
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 90
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 774
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 240
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 94
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 58
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 18
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 18
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789289190184
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789289190240
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789289190569
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789289190745
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789289194200
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789289194291
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789289194966
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789289194979
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789289195065
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789289195072
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789289195305
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789289195305
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789289195363
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789289195399
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789289195399
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789289195399
+      }
+    ]
+  },
+  {
+    "timestamp": 1789290042117,
+    "reload_number": 1,
+    "total_ms": 3535,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 219
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 63
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 12
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 113
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 1111
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 693
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 182
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 107
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 165
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 6
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 47
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 133
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 626
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 37
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 15
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 8
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789290038584
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789290038604
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789290038878
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789290038992
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789290041306
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789290041439
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789290042027
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789290042028
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789290042066
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789290042067
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789290042102
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789290042102
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789290042111
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789290042117
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789290042117
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789290042117
+      }
+    ]
+  },
+  {
+    "timestamp": 1789290263059,
+    "reload_number": 1,
+    "total_ms": 2902,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 212
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 48
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 7
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 12
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 103
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 199
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 847
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 132
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 111
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 239
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 12
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 44
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 90
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 9
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 657
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 139
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 33
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 22
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 8
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 8
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789290260162
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789290260194
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789290260437
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789290260541
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789290262131
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789290262230
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789290262825
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789290262830
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789290262887
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789290262887
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789290263026
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789290263026
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789290263049
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789290263059
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789290263059
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789290263059
+      }
+    ]
+  },
+  {
+    "timestamp": 1789292938853,
+    "reload_number": 1,
+    "total_ms": 4509,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 329
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 49
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 36
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 160
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 296
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 1659
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 271
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 173
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 275
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 19
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 55
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 170
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 758
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 185
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 66
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 36
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 28
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 28
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789292934348
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789292934392
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789292934760
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789292934925
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789292937674
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789292937845
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789292938514
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789292938517
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789292938602
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789292938602
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789292938787
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789292938787
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789292938824
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789292938852
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789292938852
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789292938853
+      }
+    ]
+  },
+  {
+    "timestamp": 1789293621698,
+    "reload_number": 1,
+    "total_ms": 2108,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 183
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 28
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 3
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 8
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 78
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 156
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 695
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 138
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 95
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 182
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 8
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 35
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 80
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 333
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 68
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 10
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 5
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789293619600
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789293619625
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789293619818
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789293619898
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789293621207
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789293621287
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789293621583
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789293621585
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789293621621
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789293621621
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789293621688
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789293621688
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789293621693
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789293621698
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789293621698
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789293621698
+      }
+    ]
+  },
+  {
+    "timestamp": 1789294178079,
+    "reload_number": 1,
+    "total_ms": 2255,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 163
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 26
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 6
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 8
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 75
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 133
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 694
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 159
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 18
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 107
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 93
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 5
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 28
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 58
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 587
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 61
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 30
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 19
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 11
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 11
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789294175829
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789294175848
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789294176028
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789294176104
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789294177343
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789294177401
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789294177945
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789294177955
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789294177990
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789294177992
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789294178049
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789294178049
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789294178068
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789294178079
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789294178079
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789294178079
+      }
+    ]
+  },
+  {
+    "timestamp": 1789294833300,
+    "reload_number": 1,
+    "total_ms": 2511,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 170
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 30
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 6
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 123
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 172
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 789
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 140
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 114
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 216
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 11
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 32
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 75
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 6
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 509
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 77
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 32
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 17
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 10
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 10
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789294830791
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789294830814
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789294831001
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789294831128
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789294832602
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789294832682
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789294833139
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789294833145
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789294833191
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789294833191
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789294833268
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789294833268
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789294833288
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789294833299
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789294833300
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789294833300
+      }
+    ]
+  },
+  {
+    "timestamp": 1789295111797,
+    "reload_number": 1,
+    "total_ms": 2936,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 281
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 65
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 10
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 24
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 166
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 204
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 885
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 89
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 104
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 193
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 16
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 39
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 107
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 591
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 101
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 1
+      },
+      {
+        "name": "complete",
+        "duration_ms": 54
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 35
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 17
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 17
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789295108863
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789295108887
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789295109243
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789295109416
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789295110942
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789295111050
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789295111592
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789295111601
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789295111641
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789295111641
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789295111743
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789295111743
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789295111779
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789295111796
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789295111796
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789295111797
+      }
+    ]
+  },
+  {
+    "timestamp": 1789296525450,
+    "reload_number": 1,
+    "total_ms": 2911,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 3
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 211
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 53
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 5
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 91
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 155
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 901
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 267
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 259
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 221
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 69
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 51
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 106
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 4
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 404
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 65
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 38
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 23
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 14
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 14
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789296522544
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789296522571
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789296522815
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789296522912
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789296524833
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789296524944
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789296525302
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789296525304
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789296525347
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789296525348
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789296525412
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789296525412
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789296525435
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789296525450
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789296525450
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789296525450
+      }
+    ]
+  },
+  {
+    "timestamp": 1789297521347,
+    "reload_number": 1,
+    "total_ms": 5001,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 5
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 372
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 119
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 10
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 7
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 195
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 287
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 1587
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 206
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 209
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 221
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 15
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 67
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 112
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1432
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 121
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 29
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 12
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 15
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 15
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789297516354
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789297516386
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789297516859
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789297517064
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789297519653
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789297519765
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789297521113
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789297521126
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789297521197
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789297521197
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789297521318
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789297521318
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789297521331
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789297521347
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789297521347
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789297521347
+      }
+    ]
+  },
+  {
+    "timestamp": 1789389504854,
+    "reload_number": 1,
+    "total_ms": 111,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "complete",
+        "duration_ms": 110
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789389504745
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789389504777
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789389504845
+      }
+    ]
+  },
+  {
+    "timestamp": 1789389608511,
+    "reload_number": 1,
+    "total_ms": 95,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "complete",
+        "duration_ms": 94
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789389608418
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789389608430
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789389608501
+      }
+    ]
+  },
+  {
+    "timestamp": 1789389707186,
+    "reload_number": 1,
+    "total_ms": 4583,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 3
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 255
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 85
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 20
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 2
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 125
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 1129
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 1187
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 157
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 361
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 20
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 60
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 15
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 150
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 88
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 738
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 125
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 48
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 25
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 22
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 22
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789389702607
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789389702641
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789389702974
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789389703118
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789389706186
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789389706275
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789389706942
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789389706946
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789389707013
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789389707013
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789389707138
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789389707138
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789389707164
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789389707186
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789389707186
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789389707186
+      }
+    ]
+  },
+  {
+    "timestamp": 1789389774392,
+    "reload_number": 2,
+    "total_ms": 763,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 13
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 27
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 45
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 115
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 120
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 14
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 36
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 27
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 351
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 1
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 5
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 4
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789389773629
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789389773631
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789389773646
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789389773673
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789389774008
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789389774035
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789389774351
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789389774352
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789389774386
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789389774387
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789389774387
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789389774387
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789389774391
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789389774392
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789389774392
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789389774392
+      }
+    ]
+  },
+  {
+    "timestamp": 1789391432072,
+    "reload_number": 1,
+    "total_ms": 6160,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 5
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 185
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 46
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from copycats",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 10
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 99
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 1716
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 919
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 303
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from copycats",
+        "duration_ms": 282
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 18
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 47
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 107
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 52
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 2101
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 223
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 2
+      },
+      {
+        "name": "complete",
+        "duration_ms": 40
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 16
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 18
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 18
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789391425918
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789391425935
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789391426159
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789391426266
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789391429654
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789391429706
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789391431712
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789391431725
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789391431807
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789391431807
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789391432032
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789391432032
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789391432049
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789391432068
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789391432071
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789391432072
+      }
+    ]
+  },
+  {
+    "timestamp": 1789398777897,
+    "reload_number": 1,
+    "total_ms": 4290,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 114
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 31
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from copycats",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 5
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 6
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 64
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 1232
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 803
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 140
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from copycats",
+        "duration_ms": 168
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 52
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 10
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 154
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 51
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 4
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1281
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 109
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 49
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 35
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 14
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 14
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789398773608
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789398773623
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789398773767
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789398773834
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789398776403
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789398776458
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789398777685
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789398777690
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789398777739
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789398777740
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789398777848
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789398777848
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789398777883
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789398777897
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789398777897
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789398777897
+      }
+    ]
+  },
+  {
+    "timestamp": 1789400222824,
+    "reload_number": 1,
+    "total_ms": 2986,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 185
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 38
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from copycats",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from hexcasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from hexical",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 8
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 72
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 183
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 944
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 260
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from copycats",
+        "duration_ms": 210
+      },
+      {
+        "name": "Loading plugin from hexcasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from hexical",
+        "duration_ms": 36
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 11
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 124
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 80
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 666
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 117
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 39
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 23
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 12
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 12
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1789400219840
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1789400219863
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1789400220074
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1789400220149
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1789400221921
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1789400222002
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1789400222608
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1789400222620
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1789400222668
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1789400222669
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789400222785
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1789400222785
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1789400222812
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1789400222824
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1789400222824
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1789400222824
+      }
+    ]
+  }
+]

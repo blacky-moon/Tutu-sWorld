@@ -1,0 +1,2521 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".cache/connector/continuity-3.0.0+1.21.neoforge_mapped_moj_1.21.1.jar"
+hash = "a0e339695dfeca761ce3a66bf7dbefc708f185b4f7115ffab995b8b03b843636"
+
+[[files]]
+file = ".cache/connector/continuity-3.0.0+1.21.neoforge_mapped_moj_1.21.1.jar.input"
+hash = "207c1037dedc4fec1812b0b65a2a7d31819c1f27ffa9c1f74e7c222ddfc05778"
+
+[[files]]
+file = ".cache/connector/patch_audit.txt"
+hash = "199ca9b5af0db8f97f42a3197495d7fceafa18311f07f78df16a15cbf76271c2"
+
+[[files]]
+file = ".sable/natives/sable_rapier_x86_64_linux.so"
+hash = "442c1ffb2f13250caab0e9e26d8e0aa507bad7d401474a723670f8f76b26832f"
+
+[[files]]
+file = "XaeroWaypoints_BACKUP240807/Новый мир/config.txt"
+hash = "d8af0188b8be547a42d0a69cf60d997321736b99937b3d31fafa0f4fbbd14854"
+
+[[files]]
+file = "backups/2026-09-06_15-59-20_New World.zip"
+hash = "a5420b0c8643e987d8a81f0009879b01c6e578d48db63967238133e5b82d7609"
+
+[[files]]
+file = "command_history.txt"
+hash = "a727e4d950faa545c6890fbbba9dc102886ba066b8245dbe751dffe44e9d4fb4"
+
+[[files]]
+file = "config/aeronautics-server.toml"
+hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
+
+[[files]]
+file = "config/connector.json"
+hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
+
+[[files]]
+file = "config/copycats-client.toml"
+hash = "e315dbb97d8623bcb779383e2b58d22cf2c65b7ca239f73cb34660ee077fecfb"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "14818ac4ed5c487630e917c6bcbb986b6dfad26357111cdb4619ad5456b3a46e"
+
+[[files]]
+file = "config/copycats-server.toml"
+hash = "dac18a20718319d6556a7b2709d8f7a64b5da718d2b05ab9d32604087860322a"
+
+[[files]]
+file = "config/crash_assistant/config.toml"
+hash = "130e5fed98b63a39aa011c2af53e4ec0fa67bdef89d2013720087b89927874b6"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
+hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
+
+[[files]]
+file = "config/crash_assistant/scripts/log_analysis/example.jexl"
+hash = "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
+
+[[files]]
+file = "config/crash_assistant/scripts/startup/example.jexl"
+hash = "346378f04a9e7319cdcb405fad82d6e7f1b36b39e0e4129c00a226b49f41cf37"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "16774bad3d5684a5ecfb6e9e9a8ca5c158fbc8bb3c97568af830be925e6d3d2a"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "f1a3edd31cdcf2b602b7d51d1fe8ba5e88d6403580ba382ba4cbfab1ecb3a365"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "5e18ed787b1fb0fcd23abcc4baf7f73f5ebcf73f369bf1102ba251569fd06fd4"
+
+[[files]]
+file = "config/create_connected-server.toml"
+hash = "5b0f4cdc30aac70ead5b98c9768e0aa39868141b999cfcdebc3e49f18a8ac9eb"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "f1e31eed2ff11e1c6eda6517dc8b24dabd5b752ba1f8a3503c5ce750af1fc7b4"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/emi-accelerator/emi-accelerator.txt"
+hash = "d63546ebd2ff82ab251d4af1ab82c4ef9348076b2cd9978c14ce7c6c011e98ba"
+
+[[files]]
+file = "config/emi-accelerator/reload-timings.json"
+hash = "c7bb9d916d88e8bd52df1a520ba3115b1cb29cca7c0f7ac5d6afd4b60e4b79f4"
+
+[[files]]
+file = "config/emi-accelerator/stack-cache.emic"
+hash = "e28a5779a7cc94aacf877bcc8c1674d3d8f0d1ae3483e9e6cf3b70ef05988712"
+
+[[files]]
+file = "config/emi_loot_config.toml"
+hash = "1ceb2f5ec67f2ebbc6919602e6c52002cf0046aec0f0fc8069e092ce042fff94"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "61cfaeed01a86d4118edbee1b978c5d42cdc349200898e70ca731717bd3417ef"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "4404ba02b39d4de63e4ab8fb5dd74e7994c23c67b15319c30f9fa207fa23ab1b"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "1eecc5b541b94652f11619de138f2f958a71034e3466a7d7096f1b739060dce6"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "8171fd8500c7bbd52df9fe4f8ea1b7abdc6a24868a9e7e54fa908b4725382bde"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/hexal-client-1.toml.bak"
+hash = "f84d47787b684ee737df3b21e44e58755f1835084a9d2d88f151683f940ee50e"
+
+[[files]]
+file = "config/hexal-client.toml"
+hash = "bf2520dd531ce87f9db3559e1e0c497dc32bb1e0c1da6c0eb911045f4aae2d61"
+
+[[files]]
+file = "config/hexal-server-1.toml.bak"
+hash = "b4b4475c411a5bc6946a345d992649135de6a0b71dcd07ccf202e4f106d3b233"
+
+[[files]]
+file = "config/hexal-server.toml"
+hash = "d8e27336b5c312ad22650f60cef795dbfd137cdd2e44ebd301dac72ed0857885"
+
+[[files]]
+file = "config/hexcassettes.json"
+hash = "1a81cd3027906f8e07a4d10be826c4936fd0ee4ce335950e6a7f1c448bda3b51"
+
+[[files]]
+file = "config/hexcasting-client.toml"
+hash = "11deca9b7563221200ac2138ebe104a5bf52ffdc2d74a4cac4015a40c4cb08b9"
+
+[[files]]
+file = "config/hexcasting-common.toml"
+hash = "ab398f0d779ef77feba20527c54ddd81c82277a32e75ec564b7099405646e65c"
+
+[[files]]
+file = "config/hexcasting-server.toml"
+hash = "f7a1f38ce9d311fb8ed8bfdf4d3f1bd72d6d72026724f76c1051b5874dbc4c55"
+
+[[files]]
+file = "config/hexcessible.json"
+hash = "122b6d326f4ab6a9fd318efee7f3211516266d1cf52c7af84f840d8f10711c5b"
+
+[[files]]
+file = "config/hexparse-common.toml"
+hash = "49a42bce04a49835abe7a735d09b8dc4f838b9146bfe7dbc692e610a4c934f59"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+
+[[files]]
+file = "config/inline/client-config.toml"
+hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "ad40ca62c7cc056ab7ccad1e076b2fe557c71472b3593e38ace58bca5c434ee7"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "b3c0a9bd26fa5d8eb7c629595f2792399a83337bee40fa80c0434e9c31db1c4a"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "c302f4304f9e843e2371a5ab849424ebdaed21f989ceb355f9e8f8421eec25d8"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/mod_menu-client.toml"
+hash = "bd9bf2da4aed30ba85bd3497cd28df54b322b6f7d8af8c5b9e86084ae77e044a"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "cda1de84880f439d9c8a025861a483d51972e76b8a5a6a253dd0196aec821ac5"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "9d7b8cb219fbb22896c1753e1ee5ef8d57bd81e788abe6cd992f58b5a4c069e4"
+
+[[files]]
+file = "config/moreiotas-common.toml"
+hash = "7e16bb49b3bfbbff8780a2357f1e871b6295083a4d30c936ff32d2653be948a3"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
+
+[[files]]
+file = "config/offroad-server.toml"
+hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
+
+[[files]]
+file = "config/oneironaut-server.toml"
+hash = "1bed42b5f13e67f6b3f5973ee3bda42a063db2ac404f09eb59607b240ad7ba18"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
+
+[[files]]
+file = "config/pehkui-client.toml"
+hash = "d6a05a680afa06a7de77bee6d147ae5a629693843d53ca22600fcd17fbc87111"
+
+[[files]]
+file = "config/pehkui-common.toml"
+hash = "22981c471442655695fab8120f105faa765a067b39782ef162743bfb7ec03b64"
+
+[[files]]
+file = "config/pehkui-server.toml"
+hash = "284f4a9c881016e1302487e26d60085971d5fb1087d5e2a215523c56e029de3e"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
+
+[[files]]
+file = "config/refinedstorage-common.toml"
+hash = "09c8327ef7e9902dd7638a3cf39b033c3bc3d648b8d29ae9623b66d4fd4717f5"
+
+[[files]]
+file = "config/sable-client.toml"
+hash = "0dd32460fb2fc6a4e438784924c377f11ba416732be1daff68c951e2e197d42d"
+
+[[files]]
+file = "config/sable-common.toml"
+hash = "0614f722541191b6ddcfb686f97d5ea9a3280d32f8e0607c0d31dffe9a2dc5d7"
+
+[[files]]
+file = "config/sable-server.toml"
+hash = "086c61695c31826b3fbcd4e5f55be8f42c3e4f25d6e1d3ffb680588a7457d2bc"
+
+[[files]]
+file = "config/simulated-client.toml"
+hash = "944ba0d36dfe00436e814fffd736acdd51292da18a01a060ea6ffbcf3dc7388b"
+
+[[files]]
+file = "config/simulated-server.toml"
+hash = "74ceaca226933e2471df76e5f6a8b1d0e2e339754419fd7c0c8f37fb3b90d243"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "5bf6a1ce6978c0d44903f99c87b1e2b09854cdf28c893f89d2d085fa73d1f9e1"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "06cc201b8d5c6ba6633239a71cd529f1f5107470ca9b0c0b2eed3625559e8b4b"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "fa43455a38f78bc36dfb6cb2a28a1c05fd92099e7870769f3287ca105c40a698"
+
+[[files]]
+file = "config/tablist.toml"
+hash = "c58a3dd69ef7963d155568ade91b10c25710e458660b8198a3858db6de21c95f"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "34cea9205eb09932efa3ad487e6bf634898233640f35e7b140d84e2deed55145"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "5f0b93c795763ec275514105755de0aa3cc97aebe92da88d52a04d8678f71e34"
+
+[[files]]
+file = "config/world_casting-client.toml"
+hash = "551a592c4bc498f342c7261eaec7a1ddde50c3bb8113aeb159329eb0461ed13e"
+
+[[files]]
+file = "config/world_casting-common.toml"
+hash = "ce3bc9c81f28bfdd10349f7ed6bce748df43d4c4c0703639d49c30cca3916db0"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "53b57c6a7bc117d6c2bc7a1fa8f1e5cbc963946d10f0de22fa55d2cb0929285e"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "crash-reports/crash-2026-09-05_05.34.26-fml.txt"
+hash = "e0182a203f573456c03df264d984fbc57bb3ff27a349203dee8696036e7c03f2"
+
+[[files]]
+file = "crash-reports/crash-2026-09-05_05.34.27-client.txt"
+hash = "1c73a6fee2bbcab7e2873796de9442683cc05bd5eb67539fd54bd6f46720da16"
+
+[[files]]
+file = "crash-reports/crash-2026-09-05_17.23.31-server.txt"
+hash = "332bb15e688a9e6fd99615d66279d2c15ee9c562c4e87b243e05dee36bcce581"
+
+[[files]]
+file = "crash-reports/crash-2026-09-06_15.14.11-fml.txt"
+hash = "0b519d35750b19e155c54432db675d671e45b7c49db944950707110c960cbaac"
+
+[[files]]
+file = "crash-reports/crash-2026-09-06_15.14.14-client.txt"
+hash = "78e9b488443fb010bd73b35d35681c2031633cee635d978408cb1a187ebea91a"
+
+[[files]]
+file = "crash-reports/crash-2026-09-06_15.21.27-fml.txt"
+hash = "1750c5c643bb593ffd048124061695c480ee360ef1a3475fbe027d9cd27766ea"
+
+[[files]]
+file = "crash-reports/crash-2026-09-06_15.21.28-client.txt"
+hash = "d2f5097a93f4e76a373efd892f150779462a51cea3f7df016a289bd37b11aa54"
+
+[[files]]
+file = "crash-reports/crash-2026-09-06_15.26.41-fml.txt"
+hash = "2954bcb0ff838b04f8d059269f77fc96ef49874b3ef05c2cc83a222be4cd8573"
+
+[[files]]
+file = "crash-reports/crash-2026-09-06_15.26.42-client.txt"
+hash = "db66389de1e516250111ab60b5ec32fc14657869b10ae76e456e4ef5f460c84c"
+
+[[files]]
+file = "crash-reports/crash-2026-09-11_19.10.48-server.txt"
+hash = "f8ca03e8c2b167d7a739d97b129c855b01b44c7a2d0d045e972212f6e799882f"
+
+[[files]]
+file = "crash-reports/crash-2026-09-12_10.16.00-fml.txt"
+hash = "e90498c4517b34a91e77369ae24bbe4ebdc11b78037e48c56bd5557aeedf7ca0"
+
+[[files]]
+file = "crash-reports/crash-2026-09-12_10.16.01-client.txt"
+hash = "c6ed4848e98fcf561066d0d5c1daa2859add97909be1067c63ea57e64d098508"
+
+[[files]]
+file = "crash-reports/crash-2026-09-12_10.17.06-fml.txt"
+hash = "17ea101903cb3167b956433ac34326ba010e1b9d9b93670e6c5946babb681b10"
+
+[[files]]
+file = "crash-reports/crash-2026-09-12_10.17.09-client.txt"
+hash = "852c28c14736421563d56190e5e6f3df0a13a599cfd91cd17e4406ed70b7bdd3"
+
+[[files]]
+file = "crash-reports/crash-2026-09-12_16.33.04-client.txt"
+hash = "dc60e8799ad9df37f264f13898932860f2e13c48c7136b78acdf824a2fee6a80"
+
+[[files]]
+file = "crash-reports/crash-2026-09-12_17.10.23-client.txt"
+hash = "ad7db916eb116e1028b96bee6b54375daa82865ba80f8d79dbac854bc4a9c983"
+
+[[files]]
+file = "crash-reports/crash-2026-09-13_13.49.19-server.txt"
+hash = "77092cbd15871df3e965299a9fdc60513456daca791f83723fa005051f8fe1a1"
+
+[[files]]
+file = "crash-reports/crash-2026-09-14_15.27.56-fml.txt"
+hash = "dfc64585e450abb39a0cab1798fcff2cfc0fa4f3a0f9440f1d05cc9e57a61412"
+
+[[files]]
+file = "crash-reports/crash-2026-09-14_15.29.30-fml.txt"
+hash = "ddb1686c691f4709e919df228cdeefedefedf96e50e949d97d1913a2ee90dc27"
+
+[[files]]
+file = "crash-reports/crash-2026-09-14_15.38.24-fml.txt"
+hash = "195fcfe58d2d51d12006f68f3554837d82646f571c3174a8a053e71eb04bf6ef"
+
+[[files]]
+file = "crash-reports/crash-2026-09-14_15.38.25-client.txt"
+hash = "014995b7e1937bb86493f41c5ed2eeb133f7e3071f96a9d999dcea06da7e7f07"
+
+[[files]]
+file = "crash-reports/crash-2026-09-14_15.40.08-client.txt"
+hash = "8da8af37ab495deef967d3426c093a0b34fcb0b5a5fad9afcece83991e0e8275"
+
+[[files]]
+file = "crash-reports/crash-2026-09-14_15.40.08-fml.txt"
+hash = "05d8ba742c808be1e1136ccc197adf2c27c856a10570ce71e468d9840071a183"
+
+[[files]]
+file = "crash-reports/crash-2026-09-14_16.11.58-server.txt"
+hash = "2a6c3cdf4fcdb2cd1908eef57cdcbaaf3a98a17ab8a7e76cc723c26b8a45b8a7"
+
+[[files]]
+file = "data/fabricDefaultResourcePacks.dat"
+hash = "78d70bea30c019ed01c3faa1cf071b901a854d481e1d9358342d8f2903dc8ba7"
+
+[[files]]
+file = "downloads/log.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "dumps/registry/hexcasting/action.txt"
+hash = "90f7d8001293fa5b026c54935e66760df08128bc9bceaf4a2c5b22d8d77b03ed"
+
+[[files]]
+file = "emi.json"
+hash = "11da1aa29bfa47c9b0838e17438b850b234d73ef1c7eeca1e56295d2c48e4299"
+
+[[files]]
+file = "hexParse/macro/macro.json"
+hash = "a02444e39107000cf75f5c6e2f8c9f7e92ad3f4ff3f9f913ba374f2db9ffdd8e"
+
+[[files]]
+file = "local/crash_assistant/171571_1789399801440.info"
+hash = "4862a83aba88e3de7a5110e8a8486c31d77fa52fcc09268d1cefd3d1943d1c54"
+
+[[files]]
+file = "local/crash_assistant/171571_1789399801440_app.jar"
+hash = "5cbea8d7739e699ca130fcaed7457ca34955f43fb2c8db52bcab60af50efdce1"
+
+[[files]]
+file = "local/crash_assistant/171571_1789399801440_args.info"
+hash = "0a10ed873a8d99f3653b427cbff6f8fe89a15ad704dd0b9c19413376aac32400"
+
+[[files]]
+file = "local/crash_assistant/171571_1789399801440_mod.jar"
+hash = "42f582333ffe61366e68a9320d3c205153f2fdc5b53ad715b01543f85828e6b0"
+
+[[files]]
+file = "local/crash_assistant/CONFIG_LOCK.tmp"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "local/crash_assistant/joined_world_pid171571.tmp"
+hash = "64db41135c5a748a0af10bb20ba8326d6ef183a95436a72f1b8bda3e7a23d3b6"
+
+[[files]]
+file = "local/crash_assistant/local_config.json"
+hash = "ae6a97b6c7ed4d10084bf590772859945179c3c4509238b551ef8b48ebfd9d89"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/BadOptimizations-2.4.1-1.21.1.jar.mod_data.json"
+hash = "48f5664630d984cb492bdcbcf668e6fd1979e273a6e52c7caf980918e1f2b85a"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar.mod_data.json"
+hash = "b167599802b86c2e2c5f0919be2ae57bfb5d9d7e3ada71b3c058198a8f44a4da"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/FarmersDelight-1.21.1-1.3.2.jar.mod_data.json"
+hash = "4599c9b97767772c50d6d7d9a598c65cd8dca0508956aaf256df69cfdbabf3df"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/FastEvent-1.21.1-neoforge-1.1.2.jar.mod_data.json"
+hash = "2f3bfd496d342163919566b5bcf95cf56e10c9e20c8d328cf0a3ab3bb9adbd3e"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar.mod_data.json"
+hash = "22e05b8d15caeb9239a7ce47ca8fd9adedd7e7086c052a737c0d04ff3c87c2de"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/Jade-1.21.1-NeoForge-15.10.5.jar.mod_data.json"
+hash = "684fd190c57dd15a2e7a6d614f4aa9c25f39dcc70669f75d1bd1afbdd971f44c"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar.mod_data.json"
+hash = "89dd2047d6a5f5afaef1a83a2cb1893a3ee8f28cd60e2ab5bf31ab7ced0f8be1"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/Patchouli-1.21.1-93-NEOFORGE.jar.mod_data.json"
+hash = "c4bc2c95a5ef5f873409d1b54ba646c9d479c961cfca43b18650f19eacc3ad21"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/Pehkui-3.8.3+1.21-neoforge.jar.mod_data.json"
+hash = "1e8bf344b408c524a04f9313c3e74bd2cc62bf80072279ff5e244ce511acdbb0"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/appleskin-neoforge-mc1.21-3.0.9.jar.mod_data.json"
+hash = "9936c1ebc4e42f2eab735c5495fd694e6ea6dd8c574a7023b04b702dac9d8396"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/architectury-13.0.8-neoforge.jar.mod_data.json"
+hash = "a30fb173b6b9ed43c14198883ee5038bbd30c00d75ff6018ae4f7ca94c5691fd"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/caelus-neoforge-7.0.1+1.21.1.jar.mod_data.json"
+hash = "92a7de7e161ea4135dbf730fb6d6890b4b155f6f1a187d45b6195412d6f8e5ad"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/cloth-config-15.0.140-neoforge.jar.mod_data.json"
+hash = "00e586272f2d7ea7215e6bd6c7e66278c23ea512e2d691f6651d61e7f9116510"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/complexhex-0.1.7-beta.jar.mod_data.json"
+hash = "a16e1937a4588d6edff184f0edcab51e200da39bfdc5e4670f6a6af3a29abd85"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/connector-2.0.0-beta.17+1.21.1-full.jar.mod_data.json"
+hash = "69a0dd9b5ebf7899b8b33ced844351f0b7dae54efc93dd171fd95f313cb1e919"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/continuity-3.0.0+1.21.neoforge.jar.mod_data.json"
+hash = "9a528e9d27292f4ebb437362bc0fab49232381065308613267cd7e639583be99"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/copycats-3.0.9+mc.1.21.1-neoforge.jar.mod_data.json"
+hash = "78f5ac4e907a131ef0c6bd55e9ad5a5e86b0d2403cb3d613842ecc8a09e5fb2c"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/create-1.21.1-6.0.10.jar.mod_data.json"
+hash = "2d20a0cdd497d82b7a64796897a35942b38604aa503b279c85cafdd28080dac6"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/create-aeronautics-bundled-1.21.1-1.3.2.jar.mod_data.json"
+hash = "5d9d5b706564e65a21ed8346f016fed314af6b68ba29ad45f76dbbd4b35d4f21"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/create_connected-1.3.3-mc1.21.1.jar.mod_data.json"
+hash = "d46e3feb0dfb00b1949fb0706d4d65af0eaa5df5c2ad38d6baf9d8273013c9b3"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/curios-neoforge-9.5.1+1.21.1.jar.mod_data.json"
+hash = "a57ae718c18801760b4b7b16cfabd417859610dc3fdaaa9c7f773ff92b7e0ef9"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar.mod_data.json"
+hash = "6eea07c3ee3dff6808a6782a0eb18e2412bdc06193d5d49cf557e5a16361c81b"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/emi-1.1.24+1.21.1+neoforge.jar.mod_data.json"
+hash = "21bed06059a9c50d3c47953bc3f3d4354cf1582183fc9206a147c0e511c0a006"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/emi_accelerator-1.1.3.jar.mod_data.json"
+hash = "a7d9a8f7505060b469dac5a9bbb8a66afbec61305efcfe53f495323690277a0a"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/emi_enchanting-0.1.2+1.21+neoforge.jar.mod_data.json"
+hash = "82b4880cffbfdf6888890cbff29e845a9eb93c87ca8056d7a2659664a137aae6"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/emi_loot-0.7.9+1.21+neoforge.jar.mod_data.json"
+hash = "210239019c54d6742c6ca294e0cfffcae7884465f2b897d9ad081450a11c1ef2"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/emiffect-neoforge-2.1.6+mc1.21.1.jar.mod_data.json"
+hash = "8d34bf19374674857cb8a475a6b476d72ea2f173f88ef615951b265ed13d7d64"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/entityculling-neoforge-1.10.5-mc1.21.1.jar.mod_data.json"
+hash = "6ee6ec180bba7e3f4727b95a5e71234547834baf6953f7d20c64863f104d6960"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar.mod_data.json"
+hash = "10761d3b4e0e50a23fa0d35d51bbef4ffcbf18e8f0e98d47811f639eab7b5f74"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/ferritecore-7.0.3-neoforge.jar.mod_data.json"
+hash = "a3bb2ad209057e8eb7ec64643c04174c02ba10a2352a89bc52e45e4c1a2739e7"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar.mod_data.json"
+hash = "ee7f81f92e7112785363f2f4dbe24a6a8eea05e5c2a619e604e30f29c0b08ae0"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/fzzy_config-0.7.6+1.21+neoforge.jar.mod_data.json"
+hash = "3977be4f4159be4c732ce132e2663efc1dec1ba5755da352355d0f92511b5fcf"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/hexal-0.3.1-NEOFORGE-DEVEL-pre-1.jar.mod_data.json"
+hash = "9ebb8b4482dbdefdddfb8822ac2d72d5d64f46533dec4087df99588a2b8e0f83"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/hexcassettes-2.2.0-neoforge.jar.mod_data.json"
+hash = "034b701337adc9f79509cdc129f2e8996e4e5033cfd84197399974a6bd016777"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/hexcasting-neoforge-1.21.1-0.12.0-devel.jar.mod_data.json"
+hash = "7768457dd566e8431ba837c701e89ed8ac67ac118c38d9dc419586eda3e914b5"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/hexcellular-1.2.0.jar.mod_data.json"
+hash = "0fdc5fe88f41a9f95200b0ea598160a9428826c9b06b5d8bc357fda2ca891e0b"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/hexcessible-0.3.3-neoforge.jar.mod_data.json"
+hash = "d9aa9d0bd6dfd087ca3d06d77ba8ed7aefd640cf28166b0235f483bb3ca84ed4"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/hexical-1.0.0.jar.mod_data.json"
+hash = "402876aea0449c22a413fb3f73c449c58c40dff9e9d292891ff5e2310c723045"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/hexparse-2.2.0-neoforge.jar.mod_data.json"
+hash = "455ae02971090a916722b702e12f4df1999b24f202c891aed59f9ff65ad58fe0"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/hexpose-1.0.1-neoforge.jar.mod_data.json"
+hash = "e4752304b6adf811d4d2b389bdc3a82856dc462f20b356b4c3648b190eec4a60"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/hexverse-1.0.0.jar.mod_data.json"
+hash = "d65b98db33c381ccfbe4235db5950324597e278b7dd1bb2e29595d5955897312"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/inline-neoforge-1.21.1-1.2.2.jar.mod_data.json"
+hash = "ed7d5dcf363dfd596011f91273a4fa6d133d9c8273d0e4565ebd7421023f7006"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar.mod_data.json"
+hash = "763a66228191c55387dbd50c281eda16b231d35b5f54baf8ec7813100b688abe"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/kotlinforforge-5.12.0-all.jar.mod_data.json"
+hash = "7245e9a0e8c3870e985621897d1aceb4e5ab8ce804bbbe5812e65eb561a1d069"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/lithium-neoforge-0.15.4+mc1.21.1.jar.mod_data.json"
+hash = "e47c605b5b24c52f9a8848055db3b85cad29bec1c622dd25c25366e2c74aeb0d"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/modernfix-neoforge-5.27.24+mc1.21.1.jar.mod_data.json"
+hash = "21264f1b9e55606f4f5d61188f0ccdf0323dc922ef4561b7f22e53faddb9e8ef"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/moreculling-neoforge-1.21.1-1.0.10.jar.mod_data.json"
+hash = "d23d5771c14f259fc49050c415de22d24f08776175b496828a2090edc318ff17"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/moreiotas-0.1.1-1.21.1-devel-pre-3.jar.mod_data.json"
+hash = "d9ed2ba6d0a67b2243cbbda6fc801bfffc427a75ea6a628ef75bdaf0a044f1e3"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/oneironaut-1.0.5.jar.mod_data.json"
+hash = "d903da4bf27e6ac612f169152212b6e190563f72a7a34bdd59d5b11331d19d1d"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/overvaluate-0.2.2.jar.mod_data.json"
+hash = "265c12144b39fe6823c91ce16de31e82f6cc44dd7622ca9b626fdea593da7b50"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/paucal-0.7.1-noelle+1.21.1-neoforge.jar.mod_data.json"
+hash = "6fcb8e01a9deb5ba334ac88ae54c5b898d4025462d9108e860384c3f92f6a79f"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/player-animation-lib-forge-2.0.4+1.21.1.jar.mod_data.json"
+hash = "0d818bf8ace40fe45c333e18ce102bcec7eae4b99b0eb1f4c40c975686af41e7"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar.mod_data.json"
+hash = "69fa69747e82569919e7f697b0673af284f231cddd709a81973c509b7a2fdf7c"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/refinedstorage-neoforge-2.0.9.jar.mod_data.json"
+hash = "c4dad555f6df67de7a79693e680226c57506c09666ac9ee1edfba70eb5126ead"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/sable-neoforge-1.21.1-2.0.5.jar.mod_data.json"
+hash = "05faf49a62daf4bc5aeba052115a75057a22d7e7220ae985a406a6fffa5a49cf"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/sodium-extra-neoforge-0.9.3+mc1.21.1.jar.mod_data.json"
+hash = "631819c5c712e13adb444de59a5988f9b19399108553222296372a99d57243db"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/sodium-neoforge-0.8.13+mc1.21.1.jar.mod_data.json"
+hash = "39c05bc2820ab83638268aa23be5079b98548d1999619425427e35a21465977f"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/tablist-neoforge-1.21.1-1.5.jar.mod_data.json"
+hash = "776be97e038d1faaba12f85e75b56ae532aff21fa06dfef3940ddd917d56d333"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/toofast-1.21.0-0.4.3.5.jar.mod_data.json"
+hash = "257f34af5e61362a744490caafa763b0eb70cb340abac84a54df89740a7b1d4f"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/voicechat-neoforge-1.21.1-2.6.23.jar.mod_data.json"
+hash = "52d994aed3267acae331c130950619dfe8d335d23df91807fc494568d3735913"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/world-casting-common-1.21.1-0.0.1-8.jar.mod_data.json"
+hash = "2caab60de6dbae7fa6a2a299d0b2fa359f790ba8a1c07d0c3e8437682693addd"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/world-casting-neoforge-1.21.1-0.0.1-8.jar.mod_data.json"
+hash = "495f25d2fe2822ecdeee6bafae272cc431c3bef997c6b13d613b1d65537f6793"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/world-casting-neoforge-1.21.1-0.0.1.jar.mod_data.json"
+hash = "808786256a0fc94bc6759e6d177459ea7a96646799867ea3ecd65d369a6e342a"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/xaerominimap-neoforge-1.21.1-26.5.0.jar.mod_data.json"
+hash = "360019cca6c66762e6254e459daefc1540557e4a38e0774c36c05a59c21b6fdd"
+
+[[files]]
+file = "local/crash_assistant/mod_data_cache_v5/xaeroworldmap-neoforge-1.21.1-1.46.0.jar.mod_data.json"
+hash = "f256b72bb471d2340a562eab3c4f850a7dfe331e635da4cffec527e909182e3e"
+
+[[files]]
+file = "local/crash_assistant/mod_list_scan.lock"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789388852810.json"
+hash = "e6e1c6e27cfcd549859e470ffcd333194b29b1fc341278a660b52bb7dc360ecc"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789388947570.json"
+hash = "ffa992ab09bc9876e242f6660edade1ac6a9ceae26d16aeabb608992cd1504f9"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789389469770.json"
+hash = "bb291b75d908f024958323177e81a2b5ef63e0ce9c7ff70cec273aa5144804cf"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789389571270.json"
+hash = "6fa2bee0c6133df74ed83d3bfc19312cb07c991fa7a9e21d4a682e6633fed07b"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789389643750.json"
+hash = "08d980ec2edaab6a2e3928cc0447958e1603df24e73b11027e7e40bbc3669095"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789390198480.json"
+hash = "7f6464e602833a209267507c52b042f3fe2d26f28358b2bff4eafe4b0a2b19b2"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789390559760.json"
+hash = "8b8919e21cfd635e39af53f8fa8df81fd88b1f0b3b1807e6687c3e5098b40a22"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789391240030.json"
+hash = "8a0f63fbed7fd50b2898da6e96e5a8e1704847f252980dcbf609f82a6e2fda5c"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789391333340.json"
+hash = "cf6684e4647bff1880b952dfffea8fc8b45041d2b5739aabf1949f7e34f13243"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789398705350.json"
+hash = "078368591803aeb883369b500ce0d5bc649d11ee9e7e759d6862df2cfe8d346c"
+
+[[files]]
+file = "local/crash_assistant/modlist_history/1789399801440.json"
+hash = "9f04271c83891a0b611fcbae9511343e82d7e717db8419df1cf3357e6719b734"
+
+[[files]]
+file = "local/crash_assistant/renderer_pid171571.tmp"
+hash = "78d27fe35c128fd2203f4cc11b2d83526134af8498bd110079d9202b9f20866c"
+
+[[files]]
+file = "local/crash_assistant/successful_launch_pid171571.tmp"
+hash = "3b1a7a812b2a5347c2aa84f798ae4b142096041ac555e0684c215a481be83e0f"
+
+[[files]]
+file = "local/crash_assistant/username.info"
+hash = "46aae066574e8d902962085503fedd011e95bd0268f571e639781541f6fbe308"
+
+[[files]]
+file = "logs/2026-09-05-1.log.gz"
+hash = "bb9e11a2b03b8e51f0653cfe094b2e39bfeb94ff8807f0ce51cf4bdd51cc02f7"
+
+[[files]]
+file = "logs/2026-09-05-2.log.gz"
+hash = "18253df70a1647f852a22886fc618f1dd0fd25b4dc6515b6f927e36acb8c6868"
+
+[[files]]
+file = "logs/2026-09-05-3.log.gz"
+hash = "193788acb8187240119fb59a6d41d2162de0577bb4725d7d40614d32b0db36fb"
+
+[[files]]
+file = "logs/2026-09-05-4.log.gz"
+hash = "11bf703ef5cc6483ba0d7614622f74d9d040032858eb0df4d9272902c411a877"
+
+[[files]]
+file = "logs/2026-09-05-5.log.gz"
+hash = "df11385eb6a0d86136f0b7f0df1fb2dfeec80e15b2af3f5c2429244123846ab0"
+
+[[files]]
+file = "logs/2026-09-05-6.log.gz"
+hash = "c058530b16371efd30ec5ae1f0464e75c0b3d6f7af3f3aaa34570746ab15d5c9"
+
+[[files]]
+file = "logs/2026-09-06-1.log.gz"
+hash = "2f6ec3c89c26af3995b41bbce778df4750dab0a7139c01ecb9616481e6d9caa8"
+
+[[files]]
+file = "logs/2026-09-06-2.log.gz"
+hash = "6608615900fe8c646ad66df1923bcc88b22f95a24c3eedad192df08954036566"
+
+[[files]]
+file = "logs/2026-09-06-3.log.gz"
+hash = "d8c865b664e8202d596119d317fe39e1c3e6245aa9f1e459558f3e10fa9e7e5a"
+
+[[files]]
+file = "logs/2026-09-06-4.log.gz"
+hash = "2e7610f1e3ac4d71153d2352d75c2fa9d7221c096684daf2daaf5f511f165889"
+
+[[files]]
+file = "logs/2026-09-06-5.log.gz"
+hash = "aa2d863915f2cfc179459ad15fd118aca273029efc61548b1841dc5cd80fb1b5"
+
+[[files]]
+file = "logs/2026-09-06-6.log.gz"
+hash = "58977de7ad0f110aabfbc1eaf278c735868fa6b1d59b2a620e1156141dc4924e"
+
+[[files]]
+file = "logs/2026-09-07-1.log.gz"
+hash = "440dbabff2c595c8151c1b10938522bef319b4b1839d5c39b3e1bb1af12b5718"
+
+[[files]]
+file = "logs/2026-09-08-1.log.gz"
+hash = "5c2de3d076c59b8f6146e44bbcd14d7704ce8f2c560b09c536f469dd67955e77"
+
+[[files]]
+file = "logs/2026-09-08-2.log.gz"
+hash = "6b00d029dfb79882534b83bfafe1558fe9114dd4aa3e7ebbeaae1baa40e7b7ed"
+
+[[files]]
+file = "logs/2026-09-08-3.log.gz"
+hash = "b5eaabbd377e5d4f839e14f7af09d71014880d6b710fcba9b3f79979000caf35"
+
+[[files]]
+file = "logs/2026-09-08-4.log.gz"
+hash = "178d7ea3149ba6b473715a94852e3ebd84e7793e1465cf42f8b7b7901b0fad19"
+
+[[files]]
+file = "logs/2026-09-08-5.log.gz"
+hash = "cafb47412eba4bd5b04495285f45bd6a9daaaeda2dd92e23ad3413288a6604fb"
+
+[[files]]
+file = "logs/2026-09-08-6.log.gz"
+hash = "d02657597e35e05ea4ddcd75668e60b5afa04298ce4e9454b61c01f12d14401f"
+
+[[files]]
+file = "logs/2026-09-10-1.log.gz"
+hash = "ce58526f38bf3fa02a28b17201c78414596e4132c102ff3637ecc61c9295f6b0"
+
+[[files]]
+file = "logs/2026-09-10-2.log.gz"
+hash = "33f267a86b34cb03df20e08051469d0803132162c49646cf308f06c77a6d49fe"
+
+[[files]]
+file = "logs/2026-09-10-3.log.gz"
+hash = "eda1940ada154e6f739090269af3a588e0c9ee601e8ef3b80beb06d078b861f5"
+
+[[files]]
+file = "logs/2026-09-10-4.log.gz"
+hash = "2b08d750fde7637ac762bcf1a17626fc3b0284a9af4e9b23ade58bb6986759ea"
+
+[[files]]
+file = "logs/2026-09-10-5.log.gz"
+hash = "05564bc1f54eda73d0951f0a625945d052dec4b6e9bec0ced1e4593522dac47a"
+
+[[files]]
+file = "logs/2026-09-11-1.log.gz"
+hash = "d8baf41e6427c69e77b4320daabf8c40f70d0aaa6abc04d5818ea2b86bdbc96f"
+
+[[files]]
+file = "logs/2026-09-11-2.log.gz"
+hash = "c7f72e5a1d15180a85f2e5be3ef6bd91d94fca52533e69d77a73dd72ac112e44"
+
+[[files]]
+file = "logs/2026-09-11-3.log.gz"
+hash = "c33194602b99d3300888b762edc2cd63c2caa73bedbae82f2ebc20ddaa68b780"
+
+[[files]]
+file = "logs/2026-09-11-4.log.gz"
+hash = "66ed2c8ad39bb8ec1b47ebd143533fed8545689c9de082d061a3e1092626697c"
+
+[[files]]
+file = "logs/2026-09-11-5.log.gz"
+hash = "3886b8d3b4febaff97184445cbaedc84090acf5239b23f8186304cae06d4dc0d"
+
+[[files]]
+file = "logs/2026-09-11-6.log.gz"
+hash = "e65d50e47e7fe210b029750a1556f52eb091d7011c96a3166d709b25866afeb3"
+
+[[files]]
+file = "logs/2026-09-12-1.log.gz"
+hash = "d4ba3f571594f30602df40817501def16b8e999b12c54780590d5a27cec30f87"
+
+[[files]]
+file = "logs/2026-09-12-2.log.gz"
+hash = "2483d8782b9742afe134cb9662d3e0db3db405c6e2917e6a52cd8b040c93a65e"
+
+[[files]]
+file = "logs/2026-09-12-3.log.gz"
+hash = "bf8955ffa3df9e3d9c1906977299d25f35bfe4c0e4601f4a9d02f89f1030ed41"
+
+[[files]]
+file = "logs/2026-09-12-4.log.gz"
+hash = "06f743a22faa0cb1f4b3a66e19ebfdc5d928efa8ae3f4603fa0e7684fcfa4eef"
+
+[[files]]
+file = "logs/2026-09-12-5.log.gz"
+hash = "c422e551e4e434efa4774732746b974b56667ca9e894bec8fc9cc0ffe8e6118c"
+
+[[files]]
+file = "logs/2026-09-12-6.log.gz"
+hash = "dc9a9c81d08824e27adb2ddbf536e6c0514ed05217fe5ce826ae08ba20506809"
+
+[[files]]
+file = "logs/2026-09-13-1.log.gz"
+hash = "4d881b304f63ddfc4209705f5de8ae8b3bcdd82be31603c475bf38fbc464277e"
+
+[[files]]
+file = "logs/2026-09-13-2.log.gz"
+hash = "1ac8718dbc8eaaacd5ca41b2a27962ca9f4a487d3afd9e8867f4cf990305dcd8"
+
+[[files]]
+file = "logs/2026-09-13-3.log.gz"
+hash = "ae9595a971adafbbeb6d26d3cfd31e79efeb09e5358c34061e1ec558ce76d196"
+
+[[files]]
+file = "logs/2026-09-13-4.log.gz"
+hash = "0bcfd3e60ac83d0b45dacaf1b68ff0e5efe4e8205712d7ef4a078791245fb85f"
+
+[[files]]
+file = "logs/2026-09-13-5.log.gz"
+hash = "f527dc916d35ebefd307918d4e6e6e2c366576f04f51fe08444b033149d262f1"
+
+[[files]]
+file = "logs/2026-09-13-6.log.gz"
+hash = "37a0839c96a9ca189d81569814488e4eced05cb6b001b5d66edd875a22b4fba1"
+
+[[files]]
+file = "logs/2026-09-14-1.log.gz"
+hash = "7fbcfdd1cb85178bd1ed0461e20c7b387796498e403314acd941528b7a3a48a2"
+
+[[files]]
+file = "logs/2026-09-14-2.log.gz"
+hash = "35b1c15cdea2d363ef69191474f8247585bf08238cd91961dc7c8e46fc745675"
+
+[[files]]
+file = "logs/2026-09-14-3.log.gz"
+hash = "503cfb02f7987c0a4a1f74a687ea24fa2cb61c1be01f80761341f2665dd4b698"
+
+[[files]]
+file = "logs/2026-09-14-4.log.gz"
+hash = "f98ba844cd44aa5e10f1ae4d03d1a3f0a5c1faca67c58c3d991192c9e1b455ca"
+
+[[files]]
+file = "logs/2026-09-14-5.log.gz"
+hash = "cdca0b0962b02d85a813f54730835b11eaa960ed218df96095fd942be716404b"
+
+[[files]]
+file = "logs/2026-09-14-6.log.gz"
+hash = "f11b15c8f6e9e3601bc4d3a03bb8e2c1924cd43bf9d5fb888a0290cdc3b4f8a8"
+
+[[files]]
+file = "logs/2026-09-14-7.log.gz"
+hash = "13f271b43bbd77771c16af6796140af45abc6725ea9779adfcdae5b35fdb7cf5"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app.log"
+hash = "4c0c7796282ae06b75726c113ec30953cd36c7de7a6ff8c4a45414db0be0e1d3"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_15-27-38.log.gz"
+hash = "077f9f0a2f563cf638bfd10a878224eadde047e6aadf3394543b854a81bb127d"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_15-29-13.log.gz"
+hash = "e7b6330aaa4cb0a3eae9b822fd3c10c95d302e9d30070650ae44b7809ab95843"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_15-37-57.log.gz"
+hash = "4ec27ee700b80e8b93abaaf0b84dc38cccdde3292c2165cc5090eac5f44be730"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_15-39-38.log.gz"
+hash = "5c9c63ab14c1994b9247702ace9c5c2e9a1ab91e67e4b7cc57c1ec385a8deaf2"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_15-40-49.log.gz"
+hash = "3691151b2c7f03c5fb82340b849e156656d2d3e55230a463f9e67f1f102c6b68"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_15-50-03.log.gz"
+hash = "eb10a0829045025102909c3f820b1ed9d58a888adfb4b20fea36b9e97ea6cee3"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_15-56-07.log.gz"
+hash = "150b07aaadba39e2d4dfbf6af9d69babb5c0f517661cd072850952f205f8855e"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_16-07-27.log.gz"
+hash = "9508a810d55866dd8c7fbec1bc06817e47e5238d2ad40611c4b7dfc5c31a6dd4"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_16-09-03.log.gz"
+hash = "74f0630d8f5c638a5ca0748809413e6db57d923a3162108ecf92885d47665cb0"
+
+[[files]]
+file = "logs/crash_assistant/crash_assistant_app_2026-09-14_18-11-52.log.gz"
+hash = "55d88da95529dc91ea7f4b75e3990cabd0bace6b2c2d6942b07c27030293dcd4"
+
+[[files]]
+file = "logs/crash_assistant/startup_scripts.log"
+hash = "6c5121a194839d120686bdb3b25ef3c696c5a9c75df71588ef3a304c9b8cd884"
+
+[[files]]
+file = "logs/debug-1.log.gz"
+hash = "04bc0c696542d438b9fa90fc2e1ffed1325d9e475228dd87c67840898f67dae1"
+
+[[files]]
+file = "logs/debug-2.log.gz"
+hash = "2f80d9dd8d15df9d8800fdc353f409fe8871fec0691dd784c87b7512510a4d74"
+
+[[files]]
+file = "logs/debug-3.log.gz"
+hash = "e559ab7472432b7d55053a24e181fa6cab712dcdfd1f132e20669079600b3021"
+
+[[files]]
+file = "logs/debug-4.log.gz"
+hash = "888a390246b7a18a07caac552cdb0519c1974c7d8468758b4e88256ebe10c9dd"
+
+[[files]]
+file = "logs/debug-5.log.gz"
+hash = "fa5119c3c526b372a6482f492f595fa09593a5868d8bec2e54ddd62fca17a56e"
+
+[[files]]
+file = "logs/debug.log"
+hash = "fea367811c5a58d1abc207b334993b43841e749427a61f3e81e592c4d485e19f"
+
+[[files]]
+file = "logs/latest.log"
+hash = "a4fce4b302ad59dbe007d38b73684d35251959c5364b56c4e38a407a7a804f50"
+
+[[files]]
+file = "logs/modlist.txt"
+hash = "841998bdd9d2c3798bcf6c34a3b6c0b22d9b76c595dce63fd8134fe6f9c8a82f"
+
+[[files]]
+file = "logs/stderr_stream.log"
+hash = "317b2bd5a683492ac190ecf853998595d0f6a4799893f0273ebb2b6e875fe79c"
+
+[[files]]
+file = "mods/BadOptimizations-2.4.1-1.21.1.jar"
+hash = "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
+
+[[files]]
+file = "mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
+hash = "42f582333ffe61366e68a9320d3c205153f2fdc5b53ad715b01543f85828e6b0"
+
+[[files]]
+file = "mods/FarmersDelight-1.21.1-1.3.2.jar"
+hash = "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+
+[[files]]
+file = "mods/FastEvent-1.21.1-neoforge-1.1.2.jar"
+hash = "d25059582596c9e2cfb0254b597ee4477389c91c1b3dbb51b4fefe6cb94ffbc9"
+
+[[files]]
+file = "mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar"
+hash = "15bf9bd6d8e3ae8ad35c5a4d90680424b534d9762d698c0a466965afcab5dd78"
+
+[[files]]
+file = "mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+hash = "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+
+[[files]]
+file = "mods/Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar"
+hash = "254adf32afefc94a26505a79b66a64907bf07eb6e2a5890b9dd52a913fa53130"
+
+[[files]]
+file = "mods/Patchouli-1.21.1-93-NEOFORGE.jar"
+hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
+
+[[files]]
+file = "mods/Pehkui-3.8.3+1.21-neoforge.jar"
+hash = "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec"
+
+[[files]]
+file = "mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+
+[[files]]
+file = "mods/architectury-13.0.8-neoforge.jar"
+hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+
+[[files]]
+file = "mods/caelus-neoforge-7.0.1+1.21.1.jar"
+hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
+
+[[files]]
+file = "mods/cloth-config-15.0.140-neoforge.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
+file = "mods/complexhex-0.1.7-beta.jar"
+hash = "cbeed5c24dc2204575c83fbe8a5496e783a99ad30e20b79ca6e3231fc5aae361"
+
+[[files]]
+file = "mods/connector-2.0.0-beta.17+1.21.1-full.jar"
+hash = "ca70b57df3a7a4e8d211fea7ff3ae77e768482af374f26bf953ff5fd755564f0"
+
+[[files]]
+file = "mods/continuity-3.0.0+1.21.neoforge.jar"
+hash = "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a"
+
+[[files]]
+file = "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar"
+hash = "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e"
+
+[[files]]
+file = "mods/create-1.21.1-6.0.10.jar"
+hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+
+[[files]]
+file = "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar"
+hash = "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
+
+[[files]]
+file = "mods/create_connected-1.3.3-mc1.21.1.jar"
+hash = "0c5eb9ffb5c8d71e6e2a39023feb85c51adfb10d38949bc47c4abbd53b351a4f"
+
+[[files]]
+file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
+hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+
+[[files]]
+file = "mods/emi-1.1.24+1.21.1+neoforge.jar"
+hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
+
+[[files]]
+file = "mods/emi_accelerator-1.1.3.jar"
+hash = "393ac92cf8ed156ecaa39fed92574f0a2726005cb966ddca0863eb80595bd6b0"
+
+[[files]]
+file = "mods/emi_enchanting-0.1.2+1.21+neoforge.jar"
+hash = "c22dd7b46acb67e83dcba71b50ced95fe0fb9f2f75b9c0e8ce66f338fda301ca"
+
+[[files]]
+file = "mods/emi_loot-0.7.9+1.21+neoforge.jar"
+hash = "a89805cdcb2e11734624d7239112643ee6b8f95e6b71b3a720530df6a5c18980"
+
+[[files]]
+file = "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar"
+hash = "38fd4cb9ae7eee090f352c92b09dc54eb873363523d11b2354157d3214546816"
+
+[[files]]
+file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
+
+[[files]]
+file = "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar"
+hash = "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a"
+
+[[files]]
+file = "mods/ferritecore-7.0.3-neoforge.jar"
+hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+
+[[files]]
+file = "mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar"
+hash = "96f8b489f401c64e87343daf57a030ccd1b58be40fc0aad701278ba58a0fadaf"
+
+[[files]]
+file = "mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+
+[[files]]
+file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-1.jar"
+hash = "e1e6191ca5d1f6331175d941696a7c038b84e0a98f6107b0830709938703da3f"
+
+[[files]]
+file = "mods/hexcassettes-2.2.0-neoforge.jar"
+hash = "888d8783d632b9977700c7bd8dfe3373a2fdae9a4e2de87e1b564e69522c16c1"
+
+[[files]]
+file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel.jar"
+hash = "ffec4f32df3cfaaa9c5923b272527b9735a7ee96301efc00bc2d8523cac15361"
+
+[[files]]
+file = "mods/hexcellular-1.2.0.jar"
+hash = "3507838e81202a055bea3721e49597cad3a02355baf3f94021ea91b26b91bd52"
+
+[[files]]
+file = "mods/hexcessible-0.3.3-neoforge.jar"
+hash = "517a27fefc8612a56ea1a4ab5fc43e3b67e1e1a36c7ae6de6a65eec0c6df470d"
+
+[[files]]
+file = "mods/hexical-1.0.0.jar"
+hash = "e73649b1d8e32041abfde2932dbcbb9c49d5499eb4796fafd87e2835487b01c9"
+
+[[files]]
+file = "mods/hexparse-2.2.0-neoforge.jar"
+hash = "05816e6d2e15d5518d93ec9c38a5cd9ba1bf706225f209924019ff3f3167d69f"
+
+[[files]]
+file = "mods/hexpose-1.0.1-neoforge.jar"
+hash = "6d634e6ef462ce4f2c03bf4c848326d0eba1a05d81bc6f56803d2700176e64b8"
+
+[[files]]
+file = "mods/hexverse-1.0.0.jar"
+hash = "26f12980c35bb0e27e3f0349b3be4a83e624ce10b7448d79fa50455640b61946"
+
+[[files]]
+file = "mods/inline-neoforge-1.21.1-1.2.2.jar"
+hash = "694ead6f595f106c5b82fbd8de30816f9f72e9ec5bc4a6c8b754e514bee7be2d"
+
+[[files]]
+file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+
+[[files]]
+file = "mods/kotlinforforge-5.12.0-all.jar"
+hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
+
+[[files]]
+file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
+hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+
+[[files]]
+file = "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar"
+hash = "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe"
+
+[[files]]
+file = "mods/moreculling-neoforge-1.21.1-1.0.10.jar"
+hash = "008068af65deec86382b4fdde61e7f495e54861cc28d5a5b000c32b435213ed3"
+
+[[files]]
+file = "mods/moreiotas-0.1.1-1.21.1-devel-pre-3.jar"
+hash = "10a78b4161947f514237dcb3cca915a817f92cfc589d69940c959c5df3f41862"
+
+[[files]]
+file = "mods/oneironaut-1.0.5.jar"
+hash = "0968cd6586818b0bb3f175b78d828abf702416a30eefa31b98c02e4279cc298b"
+
+[[files]]
+file = "mods/overvaluate-0.2.2.jar"
+hash = "eb808e598f0a1bfda6c489d50b8dcbc01f6244b24dd2285199036ea23c5dc23f"
+
+[[files]]
+file = "mods/paucal-0.7.1-noelle+1.21.1-neoforge.jar"
+hash = "9446fa8b11bba8ecd4d3c10121ef0db5197dab484eb5f0e5356ae68872f066d3"
+
+[[files]]
+file = "mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
+hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+
+[[files]]
+file = "mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar"
+hash = "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e"
+
+[[files]]
+file = "mods/refinedstorage-neoforge-2.0.9.jar"
+hash = "e9c758dddcdfa9c02a7370ca3f4f972a285a1e38ca434bd1fc15cb223ffa06ab"
+
+[[files]]
+file = "mods/sable-neoforge-1.21.1-2.0.5.jar"
+hash = "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab"
+
+[[files]]
+file = "mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar"
+hash = "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186"
+
+[[files]]
+file = "mods/sodium-neoforge-0.8.13+mc1.21.1.jar"
+hash = "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
+
+[[files]]
+file = "mods/toofast-1.21.0-0.4.3.5.jar"
+hash = "2c410a81cc709cf334487d331f889f16dfa79fbfa70908fd524d85d40e68c396"
+
+[[files]]
+file = "mods/voicechat-neoforge-1.21.1-2.6.23.jar"
+hash = "3a70dc640992efabae224708bce2521e6029607ddb7abcfdee499d5ea3d1d81c"
+
+[[files]]
+file = "mods/world-casting-neoforge-1.21.1-0.0.1.jar"
+hash = "51ce18333bc94a63bd7800d9dcdceee879a0df80b567cee879f48cfc8017398e"
+
+[[files]]
+file = "mods/xaerominimap-neoforge-1.21.1-26.5.0.jar"
+hash = "667105d8fdca64b27b29d8e0b88e67e7342038d3fb4edc4129bf452b601c6d20"
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar"
+hash = "a7f059e4c48211f6d5c962e7640f5179cc1636bccc907ea77ab9e1865635cb24"
+
+[[files]]
+file = "options.txt"
+hash = "dfa2963112dd584065a528003eb9fbb3acd2d076f8decc3a81a5260820aaaaba"
+
+[[files]]
+file = "patchouli_data.json"
+hash = "5e47b95784fbb250538847bfb5b53833fc8f3be7a2c98dac2384b35f9736feb7"
+
+[[files]]
+file = "ponders_watched.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "saves/New World/DIM-1/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/New World/DIM-1/data/raids.dat"
+hash = "adf56e4d37c7b3487088fdecad85bda583b54f4e1e333e749314677ec063533f"
+
+[[files]]
+file = "saves/New World/DIM1/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/New World/DIM1/data/raids_end.dat"
+hash = "adf56e4d37c7b3487088fdecad85bda583b54f4e1e333e749314677ec063533f"
+
+[[files]]
+file = "saves/New World/advancements/356ad085-b91e-41be-820e-bbe2008665a4.json"
+hash = "b6b436a2774bcac99c3d48894542b2179ef4051e42c6077f8066e102b98456f6"
+
+[[files]]
+file = "saves/New World/data/hexal:gate_data.dat"
+hash = "ce23d670562c962c8cfc2c172c016b52904121be6147a75a39aafcf8296b9b80"
+
+[[files]]
+file = "saves/New World/data/hexal_gate_data.dat"
+hash = "ce23d670562c962c8cfc2c172c016b52904121be6147a75a39aafcf8296b9b80"
+
+[[files]]
+file = "saves/New World/data/hexcasting.per-world-patterns.0.1.0.dat"
+hash = "da21e487ab8e8deceb3bd0276b60f8aa372429c07bfaa25a20adc5ca34453b58"
+
+[[files]]
+file = "saves/New World/data/hexcellular.dat"
+hash = "1fd490717a729a0fd091a33faeb4598f8830bbf835a98c2f3258c431e9d8c459"
+
+[[files]]
+file = "saves/New World/data/hexparse.great.pattern.unlocks.dat"
+hash = "f632055ad1d87b6d2361a87003a765dabb5c5278a25703f646ec00c91122a8b4"
+
+[[files]]
+file = "saves/New World/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/New World/data/oneironaut_ideainscription.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/New World/data/raids.dat"
+hash = "adf56e4d37c7b3487088fdecad85bda583b54f4e1e333e749314677ec063533f"
+
+[[files]]
+file = "saves/New World/data/random_sequences.dat"
+hash = "c78cdd0fc9c53935f30c586cfee4b350304f31160534fd40f2d2f7415f80745c"
+
+[[files]]
+file = "saves/New World/data/zaps.dat"
+hash = "8a7ea1e40f1b5891ea5937a179ed125648b93aee33463b7a76746236a7deb740"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/data/oneironaut_conceptmodification.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/data/oneironaut_disintegration.dat"
+hash = "f8a7d5400be90268d27a192cab3408ed430eb7e99f4f1c5d1d8cf75b69468efe"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/data/raids.dat"
+hash = "65b30f3df41400a4e677faec44705f99f6e6915e0aa80bf4c58dbf48af3850a0"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/entities/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/entities/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/entities/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/entities/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/region/r.-1.-1.mca"
+hash = "5c5d707a28d6dd38e9239593acbb38d5f852a438c6ef11ea335834df13afe36b"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/region/r.-1.0.mca"
+hash = "2d40cf10bb05619f91e52f92374652af6a6f31f1c8a6ff3c510a6b66a8fafbe6"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/region/r.-1.1.mca"
+hash = "311d1ab4d1b53cb1652a0fa528b8750144089afdcc94a7e7d87bdcd8a4390ef9"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/region/r.0.-1.mca"
+hash = "6ab0a63e03a6da408182f49f37f1878e637872b5fff8a15102c2e9b86ef0230f"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/region/r.0.0.mca"
+hash = "99a17c65814f2c695667cac997a9f2bc608c69e6fe9abf052dce396c9aba85f4"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/deep_noosphere/region/r.0.1.mca"
+hash = "030043349e8b37aa7bdf962af3e71524e89521a88040adde8666294486939bb7"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/data/raids.dat"
+hash = "65b30f3df41400a4e677faec44705f99f6e6915e0aa80bf4c58dbf48af3850a0"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.-1.-1.mca"
+hash = "88abc6725353060f8b36379969fc8a1e4315b2b50367eb66fe25f7add286ab52"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.-1.0.mca"
+hash = "303215ef420657116d4b729287f7b312ce710f4d5453a8b89c5a91b91435555c"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.-1.1.mca"
+hash = "dfa7ac7faf8879cb2b86990b3892a4cfbf1c73e90420472030e5aec645609e62"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.-1.2.mca"
+hash = "55a083b9b52f7df6a3cb911a66bab7a34c39bdf8afad9f5bf1133068a3f5ccc3"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.-2.-1.mca"
+hash = "ffd348137d8a1f5548bd57e753a5871cf31a7cf6e28691e5ab92041bc5433a99"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.-2.0.mca"
+hash = "3bdf0063a08835752b4b182177ffe6d9a037840870f03cd7e4ab59f545acb31f"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.0.0.mca"
+hash = "49ff74bf26bfc18d859f6e00938917f17fffadc60c6e6bcb3a0047821144d555"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.0.1.mca"
+hash = "cf1d4a5ebfc2dd57497c9cf89fe671681c41ed62c70dd3acb69fcfc50c151853"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/entities/r.0.2.mca"
+hash = "104256daec08521acfd07e7ac31beae3ed60934db387722589f95e156de55041"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.-1.-1.mca"
+hash = "a536882041d1b0ae34375ebc4b582a6cbd1c15773bbe2fbcf0cba568339b2703"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.-1.0.mca"
+hash = "89c74dfe2c51851d5de0b28a350d737847283074db30702d6d0377ac9d7c5b99"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.-1.1.mca"
+hash = "aea1b1dc9b1ba7be1ef8ccbe211ce55e5fdab880ab3f3f96c2021a1f87af075e"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.-1.2.mca"
+hash = "a75aeeab17be1aa8a5fc600e04ec9810a01a863292418fa3a36eec19361170d6"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.-2.-1.mca"
+hash = "bbb4dbc840602dd470fbfefe3ff4fe52f39342dd3a711615402069a48de016c9"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.-2.0.mca"
+hash = "06333d01773f59528d190a1ece71ce168fb3195a0fd516e40327025c4bf5db9c"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.-2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.-2.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.-3.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.0.0.mca"
+hash = "438f7221efa5671c2a92139fb0067f4002d8a1f9805ed0a3d8fddf4ddb54f34d"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.0.1.mca"
+hash = "866e361ac4ae584ba876997c2abd138a8093ae88275fd2c941a2528a9c64d62a"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.0.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/poi/r.1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-1.-1.mca"
+hash = "f80d375d096b94bedd19eb7dfff253093a095fd2ceb99de48d6795d5663ae615"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-1.0.mca"
+hash = "2866376fe8c72189f472d46a1aef6c83cff6873e9f108b509cad307934faf716"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-1.1.mca"
+hash = "64a2408ee915e389aae0a7e19675fae8d82f0e25eacaccff450c459fd4df6922"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-1.2.mca"
+hash = "bc3a7829c6492526f541d4f081619db78aa15c41d5e143377fc627d40748863f"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-2.-1.mca"
+hash = "34982cf8743865348de8f12a352b4b914b6a5e399f88e0400c7da43e5348343f"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-2.0.mca"
+hash = "f295367e0a7e920de2695dea8e3f93f034871692b9c6b57d90b00c6c350e1bc7"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-2.1.mca"
+hash = "b6845e573d6dd49c9267757138aa660806c9ed6e52baa5ec8e41f7fcb6d0e86f"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-2.2.mca"
+hash = "8adc66b0dfcfb1e84d6a5b6b6e6113f07aa555cb1ebe9e6ff8f6055869f877a4"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-3.-1.mca"
+hash = "6c699a423dc4f600c69366555401801a56e9601dfed136df7402c55521d389a0"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-3.0.mca"
+hash = "6633b990d84bb22f41e5a3b4ad7b8e7094efb1346d59506003813fb558f38fde"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.-3.1.mca"
+hash = "a6b254018abc5012ff447532088d992f9278a4a25afe43763341fd5d43a7afdc"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.0.-1.mca"
+hash = "48e6a0a2a6928ce0cdfed244e926376c13afd10b7f581a064f8c40aecc6b3ce2"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.0.0.mca"
+hash = "87da5413e2a01a84f41a2c2b0014fcfacf7bf4ae7934eaeb27b5b3d5bbf5fb5f"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.0.1.mca"
+hash = "fb739fadbab73a5e6e1d629b304a7c8b904be258cc78502725feb6adc9af2f4a"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.0.2.mca"
+hash = "0733be13935d63f1396d34229272c5179bf86709fe7650dfb293b5fb5d1b026a"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.1.0.mca"
+hash = "26093fcbdc80530f538da1b569df4841b0dddb3aed7a93d2c137fc00866b050a"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.1.1.mca"
+hash = "c5c59488a175cc3af79ee9ef6187862d3dffd1be777dcac6fb9a7348d298b47b"
+
+[[files]]
+file = "saves/New World/dimensions/oneironaut/noosphere/region/r.1.2.mca"
+hash = "026056d7fc09b1a713f3ebce7acfa703696a24b9d395fe0f6f7cfcacd6317265"
+
+[[files]]
+file = "saves/New World/entities/r.-1.-1.mca"
+hash = "e6c96b88996700739870434650930dc0a8ed17347cce20e33629e0934b650ead"
+
+[[files]]
+file = "saves/New World/entities/r.-1.0.mca"
+hash = "f662a014e12cbf9c20f87c23f7a039adea18aa8ee5b71cb0ec457271a37cbeb2"
+
+[[files]]
+file = "saves/New World/entities/r.0.-1.mca"
+hash = "aa7fdb1746fa555c75bd4e3aef99be388c93ae7f6d180d5091295f3eeaeb73da"
+
+[[files]]
+file = "saves/New World/entities/r.0.0.mca"
+hash = "7d1f9c4b54f14b7cc844fcac95878d34054cb50f310ad1aa2424182bf873773f"
+
+[[files]]
+file = "saves/New World/generated/oneironaut/structures/media_laboratory_test.nbt"
+hash = "42e4e2465192a7d5295e355407c37df195bcc89386f0e314d6a40c1e91523fd8"
+
+[[files]]
+file = "saves/New World/icon.png"
+hash = "1b41dd34bf74634de28d6ca9116c46a9937cbf888b3a7a00ac2157e256635a4a"
+
+[[files]]
+file = "saves/New World/level.dat"
+hash = "32cf2db19d74f2718bba5522506c9e36969cdc0fdf4c8a9b6ad43851342fbd1c"
+
+[[files]]
+file = "saves/New World/level.dat_old"
+hash = "c955a1b0cdc4880a974e7a2a65d02f3ebd6b2eeaaa65fdfd47c1d04b46cc2de5"
+
+[[files]]
+file = "saves/New World/playerdata/356ad085-b91e-41be-820e-bbe2008665a4.dat"
+hash = "eff960a449bf14c8157c40fb7ccfd8ff04ebb376eacff2370f426c975fd8ef7d"
+
+[[files]]
+file = "saves/New World/playerdata/356ad085-b91e-41be-820e-bbe2008665a4.dat_old"
+hash = "51105e2802107cc7bd642abb01e794e08c6422f1894f9353d4772a8ad9e3ff4e"
+
+[[files]]
+file = "saves/New World/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.-1.0.mca"
+hash = "6420880960f0ccd62c807108f128cc8655ce773517305d9f95c887bae588a59c"
+
+[[files]]
+file = "saves/New World/poi/r.-2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/poi/r.0.-1.mca"
+hash = "2023ce543a138416e31843b02679a47f39d4bfe701b34dbbdaf0656e1fc6aa57"
+
+[[files]]
+file = "saves/New World/poi/r.0.0.mca"
+hash = "e7f6fcda37ecf81f4b377c8d31de8e0f006e9951d159084aab155888997aa93e"
+
+[[files]]
+file = "saves/New World/region/r.-1.-1.mca"
+hash = "27c83904d6848e3bccba7c21847ee587d8e6a6c1b95d23e2615af62847b17239"
+
+[[files]]
+file = "saves/New World/region/r.-1.-2.mca"
+hash = "e8905040d4bb97976f4ddbf1d63578f6db90c2f2ee0211bfc509c30fea9d138f"
+
+[[files]]
+file = "saves/New World/region/r.-1.0.mca"
+hash = "31f8f8aebb9f166226138b4a351598e0bf1a29d496f0d9ac3671aba5ec93ec77"
+
+[[files]]
+file = "saves/New World/region/r.-2.-1.mca"
+hash = "5ab3e5c7386d37dbc4a513cc359a5067994237841f2f8b22d95727915d6b0c84"
+
+[[files]]
+file = "saves/New World/region/r.-2.0.mca"
+hash = "15641657b62c1c4aa7ac01a5d2d535012c178d5b69d0e439bbbc6d9e221af904"
+
+[[files]]
+file = "saves/New World/region/r.0.-1.mca"
+hash = "6ca7da7e88dedde413aa2e74adedfabaa78729edac294189de00ab3afea84e2e"
+
+[[files]]
+file = "saves/New World/region/r.0.-2.mca"
+hash = "347ea564a4560d52ed28502e903a6c070a8a5202f72e6bbea09f3528c3814c0e"
+
+[[files]]
+file = "saves/New World/region/r.0.0.mca"
+hash = "717a98c3ebd86f287daddfa82c03f21e45f93e1f075cac4eaaacdb6710243a74"
+
+[[files]]
+file = "saves/New World/serverconfig/readme.txt"
+hash = "b1022ab932f8f0ea0cf78d9f312e95b85a4f96f59ca430e63f9a435e512d1186"
+
+[[files]]
+file = "saves/New World/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "saves/New World/stats/356ad085-b91e-41be-820e-bbe2008665a4.json"
+hash = "be4798fbbd4d20c8d40d3b54bb036bae041c9a59300cef167687d60a36cac9c9"
+
+[[files]]
+file = "saves/Новый мир/DIM-1/data/aeronautics_unloaded_balloons.dat"
+hash = "b27d0e711c333e4a2b53a9fd7e43bcbeef48d4a9a1aab4851ea1c59c85dd7c70"
+
+[[files]]
+file = "saves/Новый мир/DIM-1/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/Новый мир/DIM-1/data/raids.dat"
+hash = "aa96c63671f7073e07b01b394ece3b044762c9aae498aabcd4231dda766613d2"
+
+[[files]]
+file = "saves/Новый мир/DIM-1/data/sable_sub_level_force_load_tickets.dat"
+hash = "5105f1578ae279f091856dd93c5572cc919619b7c485f1fcb00466e5abdbb287"
+
+[[files]]
+file = "saves/Новый мир/DIM1/data/aeronautics_unloaded_balloons.dat"
+hash = "b27d0e711c333e4a2b53a9fd7e43bcbeef48d4a9a1aab4851ea1c59c85dd7c70"
+
+[[files]]
+file = "saves/Новый мир/DIM1/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/Новый мир/DIM1/data/raids_end.dat"
+hash = "aa96c63671f7073e07b01b394ece3b044762c9aae498aabcd4231dda766613d2"
+
+[[files]]
+file = "saves/Новый мир/DIM1/data/sable_sub_level_force_load_tickets.dat"
+hash = "5105f1578ae279f091856dd93c5572cc919619b7c485f1fcb00466e5abdbb287"
+
+[[files]]
+file = "saves/Новый мир/advancements/356ad085-b91e-41be-820e-bbe2008665a4.json"
+hash = "86a7478d7c0d9549d858180193bb568164451092338d2ea66b022841e1870f3f"
+
+[[files]]
+file = "saves/Новый мир/data/aeronautics_unloaded_balloons.dat"
+hash = "b27d0e711c333e4a2b53a9fd7e43bcbeef48d4a9a1aab4851ea1c59c85dd7c70"
+
+[[files]]
+file = "saves/Новый мир/data/hexal_gate_data.dat"
+hash = "fe253323b3f685cd3b968fbf15c277bdfb1b2ff825193a8aa73b6b27c2f81372"
+
+[[files]]
+file = "saves/Новый мир/data/hexcasting.per-world-patterns.0.1.0.dat"
+hash = "687714d4d06367ac2675bb7b437491f9e64c852e5b91bed79910c1d0e580bbea"
+
+[[files]]
+file = "saves/Новый мир/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/Новый мир/data/oneironaut_ideainscription.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/Новый мир/data/raids.dat"
+hash = "aa96c63671f7073e07b01b394ece3b044762c9aae498aabcd4231dda766613d2"
+
+[[files]]
+file = "saves/Новый мир/data/random_sequences.dat"
+hash = "20b61ed3d5be5e44e3d13c173a3763466f50cea033e343ec164c9dc897ce9bbd"
+
+[[files]]
+file = "saves/Новый мир/data/sable_sub_level_force_load_tickets.dat"
+hash = "5105f1578ae279f091856dd93c5572cc919619b7c485f1fcb00466e5abdbb287"
+
+[[files]]
+file = "saves/Новый мир/data/sable_sub_level_occupancy.dat"
+hash = "2ad931c73016dfc64508c45a89f4304cfe936af53cb10673decdac432c862e5c"
+
+[[files]]
+file = "saves/Новый мир/data/sable_tracking_points.dat"
+hash = "546e6b5d17a7672ab177e191b88e6baa4fafefa69e5325897cfb5029815b5a92"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/deep_noosphere/data/aeronautics_unloaded_balloons.dat"
+hash = "b27d0e711c333e4a2b53a9fd7e43bcbeef48d4a9a1aab4851ea1c59c85dd7c70"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/deep_noosphere/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/deep_noosphere/data/oneironaut_conceptmodification.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/deep_noosphere/data/oneironaut_disintegration.dat"
+hash = "f8a7d5400be90268d27a192cab3408ed430eb7e99f4f1c5d1d8cf75b69468efe"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/deep_noosphere/data/raids.dat"
+hash = "8217df0dff91971573d8de722f4731e4c64b2d234245fe2e7245af5f6c9486c8"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/deep_noosphere/data/sable_sub_level_force_load_tickets.dat"
+hash = "5105f1578ae279f091856dd93c5572cc919619b7c485f1fcb00466e5abdbb287"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/noosphere/data/aeronautics_unloaded_balloons.dat"
+hash = "b27d0e711c333e4a2b53a9fd7e43bcbeef48d4a9a1aab4851ea1c59c85dd7c70"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/noosphere/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/noosphere/data/raids.dat"
+hash = "8217df0dff91971573d8de722f4731e4c64b2d234245fe2e7245af5f6c9486c8"
+
+[[files]]
+file = "saves/Новый мир/dimensions/oneironaut/noosphere/data/sable_sub_level_force_load_tickets.dat"
+hash = "5105f1578ae279f091856dd93c5572cc919619b7c485f1fcb00466e5abdbb287"
+
+[[files]]
+file = "saves/Новый мир/entities/r.-1.-1.mca"
+hash = "76503b5ea07a901b83649a3240a346a88d7b697969f08c620d13c6b26d21697b"
+
+[[files]]
+file = "saves/Новый мир/entities/r.-1.0.mca"
+hash = "3d884ebb2c130529d3fe9a52221e537b3bc2b321499e9f5684b65e9e42460a4c"
+
+[[files]]
+file = "saves/Новый мир/entities/r.0.-1.mca"
+hash = "600cd51a4c0b9f49a47a5a34aa9ae1fe9e13f2c5e9048ba63529816aea5dabd8"
+
+[[files]]
+file = "saves/Новый мир/entities/r.0.0.mca"
+hash = "59bb89e90debb61c67252428a0e6dfe4b78a23200f57ae6ad26483c83afeb870"
+
+[[files]]
+file = "saves/Новый мир/entities/r.40002.40002.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/entities/r.40002.40006.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/entities/r.40002.40010.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/entities/r.40002.40014.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/entities/r.40002.40018.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/generated/minecraft/structures/armor_stand.nbt"
+hash = "ea998a0af81d485725702af8473872cbbf4a8a47b38ac5936eeca6b7114fc9d0"
+
+[[files]]
+file = "saves/Новый мир/icon.png"
+hash = "0e739378c68ad07276f97ed7c066523cdeba79df119e3ffc8bd0618b37294d29"
+
+[[files]]
+file = "saves/Новый мир/level.dat"
+hash = "22a90c1b9085d1bc1c7976a02353a11dfac19e21da369d89c5f317a52892b38d"
+
+[[files]]
+file = "saves/Новый мир/level.dat_old"
+hash = "99ffef57bea51f0305705a1a8c3a0c10d6a7367956a384c350e1e296c00803df"
+
+[[files]]
+file = "saves/Новый мир/mfix_stronghold_cache_v2.nbt"
+hash = "da56904150249e943bd8b4a536863c56e974f83daae82a5308b60947b267d39f"
+
+[[files]]
+file = "saves/Новый мир/playerdata/356ad085-b91e-41be-820e-bbe2008665a4.dat"
+hash = "7d40d04a91b11837e4e626bd08749422d6f3ae44334feb93bcca076a697e5e55"
+
+[[files]]
+file = "saves/Новый мир/playerdata/356ad085-b91e-41be-820e-bbe2008665a4.dat_old"
+hash = "b15f3863d03d0ae8699d9fe892396b6c42c22c5c64c26e0e4a26aa13703a2737"
+
+[[files]]
+file = "saves/Новый мир/poi/r.-1.-1.mca"
+hash = "0300ddd0ff3f2b8f730b4ccf3abbb9db485386dad3cecf41978f03f8de3833ab"
+
+[[files]]
+file = "saves/Новый мир/poi/r.-1.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/poi/r.-1.0.mca"
+hash = "f385b291e7d16b843f766189a9401cbb0c1fd5bb58fd51a3d3ad1877fedee855"
+
+[[files]]
+file = "saves/Новый мир/poi/r.-2.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/poi/r.-2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/poi/r.0.-1.mca"
+hash = "3c8f23037006a4662473d92d8a616e10f3138ac56a50efaeada8b0a8a847d987"
+
+[[files]]
+file = "saves/Новый мир/poi/r.0.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/poi/r.0.0.mca"
+hash = "7ce19d0163d2e80836452d699c30005d8108ece9594c8586938aa80110b27472"
+
+[[files]]
+file = "saves/Новый мир/poi/r.40002.40006.mca"
+hash = "a26df0169bfb372b4be44cb19a33e329597360c4f56cd1b8c9eae1b9efa9f926"
+
+[[files]]
+file = "saves/Новый мир/region/r.-1.-1.mca"
+hash = "321f76e57dd3bd7116f770b32f91c6087390fdf8016cb8b159fc10325bb8df26"
+
+[[files]]
+file = "saves/Новый мир/region/r.-1.-2.mca"
+hash = "72028e4b6da954dc324360ab6cae30a64ea59320e5c92117c0d05f1bd5f32079"
+
+[[files]]
+file = "saves/Новый мир/region/r.-1.0.mca"
+hash = "f5fec0fd22f4d353571682aa63a27999c902e860eafc7a740f484118fe5e473e"
+
+[[files]]
+file = "saves/Новый мир/region/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/region/r.-2.-1.mca"
+hash = "91097aa2b5213c0537d688da19d90a29a44b7b94bae3d26672325084d6f45e10"
+
+[[files]]
+file = "saves/Новый мир/region/r.-2.-2.mca"
+hash = "cf603b0e4e516a8c7c97e3749aa6c376d932d70cfbbe4e018028ab7a718f0de8"
+
+[[files]]
+file = "saves/Новый мир/region/r.-2.0.mca"
+hash = "e38e166d0a54fd3a19129f6fd96b03cd03a3bff7d14717e93b64370203c0d95f"
+
+[[files]]
+file = "saves/Новый мир/region/r.-2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/region/r.0.-1.mca"
+hash = "c94a291962c742372dc38501d54e60e8236702c9924141be2b250c33f4c72d81"
+
+[[files]]
+file = "saves/Новый мир/region/r.0.-2.mca"
+hash = "bf75f879d38afe168a906e2c464f1556722bd1f1d7d493c439728bf9c8b07650"
+
+[[files]]
+file = "saves/Новый мир/region/r.0.0.mca"
+hash = "1b8721bb4310784e2e450b3c184cd7c39083a75ade8e33750070bf62ccadac6d"
+
+[[files]]
+file = "saves/Новый мир/region/r.0.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/region/r.1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/region/r.1.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/region/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/region/r.1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Новый мир/serverconfig/readme.txt"
+hash = "b1022ab932f8f0ea0cf78d9f312e95b85a4f96f59ca430e63f9a435e512d1186"
+
+[[files]]
+file = "saves/Новый мир/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "saves/Новый мир/stats/356ad085-b91e-41be-820e-bbe2008665a4.json"
+hash = "07324c7318fbff991fe86618f649c8cbc22ab508415578f6cba918bf1494808b"
+
+[[files]]
+file = "saves/Новый мир/sublevels/r.-1.-1.slvlr"
+hash = "ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7"
+
+[[files]]
+file = "saves/Новый мир/sublevels/r.-1.0.slvlr"
+hash = "ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7"
+
+[[files]]
+file = "saves/Новый мир/sublevels/r.0.-1.0.slvls"
+hash = "ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7"
+
+[[files]]
+file = "saves/Новый мир/sublevels/r.0.-1.slvlr"
+hash = "ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7"
+
+[[files]]
+file = "saves/Новый мир/sublevels/r.0.0.0.slvls"
+hash = "5dc2fc68a6ad7334814c1564e9f5b4ea4bcba7291ee15413ce56b539db271e13"
+
+[[files]]
+file = "saves/Новый мир/sublevels/r.0.0.slvlr"
+hash = "5f493f87fcd2cfbd483ee220b62f2679bb64dd67d60c0d81cfe9e5e7bc869fe3"
+
+[[files]]
+file = "saves/Новый мир/xaeromap.txt"
+hash = "20af474f4330a1c34101cd21599e081c9633ea2cc0eaf36510b2b170e6c5ca6a"
+
+[[files]]
+file = "screenshots/2026-09-13_05.57.27.png"
+hash = "5385a2e95850ac3cb3e73756e2d2d08f40798f718c9e2fc92f673d1bd36c483b"
+
+[[files]]
+file = "screenshots/2026-09-13_07.46.48.png"
+hash = "f3a73cf844d43588af53fed3dd0fe90de7cdc79c3170a4835479a9e6485e6710"
+
+[[files]]
+file = "screenshots/debug/minecraft_alt_0_0.png"
+hash = "0d8ea741b9768d5eda757c71bab423964fdd159d1f7d921014d2e441442822da"
+
+[[files]]
+file = "screenshots/debug/minecraft_default_0_0.png"
+hash = "5de62a7a52253288967528a4a41a059d3eff68441a63307bb907cf9d3f656217"
+
+[[files]]
+file = "screenshots/debug/minecraft_dynamic_light_map_1.png"
+hash = "2d03fdeef9db10290cf9340c1aa740472e16125a0ba493d58f74d3cdd55fd03e"
+
+[[files]]
+file = "screenshots/debug/minecraft_illageralt_0_0.png"
+hash = "d8ed39ca73f9dc0d3a1805c24ad4110a3dc3a9075176af921222f6fb659cd052"
+
+[[files]]
+file = "screenshots/debug/minecraft_include_default_0_0.png"
+hash = "8e62ad70bb34c8253452e2eda287c86029b553e1ca8227026d105018bf5e64e3"
+
+[[files]]
+file = "screenshots/debug/minecraft_include_space_0_0.png"
+hash = "7e742eeef9c2b98cde85ebf459d05df62ba4cb6870354d65cef0a7d660b3b2e1"
+
+[[files]]
+file = "screenshots/debug/minecraft_include_unifont_0_0.png"
+hash = "d8ed39ca73f9dc0d3a1805c24ad4110a3dc3a9075176af921222f6fb659cd052"
+
+[[files]]
+file = "screenshots/debug/minecraft_missing_0_0.png"
+hash = "d8ed39ca73f9dc0d3a1805c24ad4110a3dc3a9075176af921222f6fb659cd052"
+
+[[files]]
+file = "screenshots/debug/minecraft_missingno.png"
+hash = "d9c29fbafd38376ae5b3239d6573bbb1cd98b17f786799c25cdaaf121d1cd504"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_armor_trims.png.txt"
+hash = "52428eb228094331f942643d156ba26d05de8216eae6cc2d7aab97a03a080f63"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_armor_trims.png_0.png"
+hash = "49d4e2eba0b2ae341c8d0950f1db94709f69ab53db58596bb60ed45e444e416c"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_armor_trims.png_1.png"
+hash = "b7cc9787feca73780fa81d3bcff4ee0def914e4033ccc27b899e437701b3d4de"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_armor_trims.png_2.png"
+hash = "68f3536cf66fd0c890ff0f0e1f3162bf45e0b51a0fff3ecee596ab9f4fe7f2b7"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_armor_trims.png_3.png"
+hash = "85108c0027931bc34e45e872a0fbd48f14cd40f86eabac8ffb12d42d1f3ac840"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_armor_trims.png_4.png"
+hash = "600cd6af7a458619123bb37c42688c46cd3ed46da3d1ccf82329f5a7e1374f50"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_banner_patterns.png.txt"
+hash = "7beba1bdfa502f56f582ba5e42bc2c71793bfad44acadd9ec2645c0171e4e879"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_banner_patterns.png_0.png"
+hash = "33c6d3e8dd47370d2051108b6188f5f3720c8ad04343cd3c7a013d88d0b167ad"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_banner_patterns.png_1.png"
+hash = "f473d1a01dbf9673b7ddd86f42d55ce9bcdebe752e91e55eac8a6218128915b1"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_banner_patterns.png_2.png"
+hash = "43c87e16dc2ce7be0fe119ca5aae689e98bf3e4a3e065f578aaa93a9663b3d8a"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_banner_patterns.png_3.png"
+hash = "c4ce6f690672fbbeb243d94d5ffe13561e5df6d4d1bc9bf92107cca1f22a5c49"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_banner_patterns.png_4.png"
+hash = "0af96f4fabb49b4bf9caabfef8d50cebca60659ddc5295ca7683e23c63bf80ad"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_beds.png.txt"
+hash = "907cb1a694b573855d149f779fd5e8b2544b53d7dce62ceb2eba7ef46930e409"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_beds.png_0.png"
+hash = "c9377d34a8bceb6308c278f14e04bad7db6c1df817546783d2e837f232a71522"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_beds.png_1.png"
+hash = "dae6983c3e51f1beae96f04ca9f028aaea42a1dc18cbf6b72e2736b2b231f1ed"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_beds.png_2.png"
+hash = "7545cdf20272f2f13f4452ec257a3c44431520742b320cede71332e6aafcf7f7"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_beds.png_3.png"
+hash = "f083ca642491191bb85dcfca5811fd2bfef4df767b34c0943e2e0b7a111527aa"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_beds.png_4.png"
+hash = "3673181d6b2b7a043254a91dbc9f2c12fe0dea673543e99cbac537669c9a4955"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_blocks.png.txt"
+hash = "6e2b2fb9d2776a42d93df4669c3182bffcb0551fa2dd9c62e32acc2ef4b06e31"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_blocks.png_0.png"
+hash = "5f5e31d91d98ec04f9242fe0fa03f4bb63a3c239719f72179209c83c2b2ec6f3"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_blocks.png_1.png"
+hash = "16db1e03bd5c0380827424a8514be38bc77ced559711037382b8bbe6cf78067c"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_blocks.png_2.png"
+hash = "6330789924c5775a246da1663ddaa95b668ba5b0c290f2aaa71a34d78d63da17"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_blocks.png_3.png"
+hash = "017ed381e1fd9a65e5fe239bf1f2e073f751b682dfe1e62ba79799e30d96ae5b"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_blocks.png_4.png"
+hash = "7142e7513849c9339e0b603373694c0c20c1d56c831003b31a039d18d43c8d85"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_chest.png.txt"
+hash = "a9240e4ef13edd4b0355cff951de07cfa3d34c89612047bd3edfa5d107ca9899"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_chest.png_0.png"
+hash = "4b5404c1610af1a5a30f4b88616fe2774e71d2446d3e71d81a8c25c4e2941817"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_chest.png_1.png"
+hash = "c445598957e686b3f53a9ea82f1132ac24223d1a5bd3bbe0e7cdc9b5eef53362"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_chest.png_2.png"
+hash = "53c4c89cc0c32d45eedf839994a9284308d280bfb7fdcc6ea90b8ec4a5513868"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_chest.png_3.png"
+hash = "b10cf32151d145574a5c8d72890abe3d39366b974be59f3bd23341e13e91af5d"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_chest.png_4.png"
+hash = "721307216727cd7821935b6d774b002c63e72a7bf8d9b3e36f223f8a65b4412b"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_decorated_pot.png.txt"
+hash = "c75d7ac698a0576f3e349125cd01ae494d87fc60c64fffb93c68d3c150baa72b"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_decorated_pot.png_0.png"
+hash = "fc39bc68b5136cc5f94d18e0808f2b2d6c31bd0f32e68461db6d2e72872d1b5c"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_decorated_pot.png_1.png"
+hash = "f081b9790d4fd092152ef00f716467b09a5a7ce2dc6662eee5763a967ea1e1ee"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_decorated_pot.png_2.png"
+hash = "bf5ebd169837aa120936ed395778cbd940b8b7105a55bdb59854f9b085e5d9bb"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_decorated_pot.png_3.png"
+hash = "19ec540c25f9a186be710650946db4a37e3c91c7bedd79bc68575d36a3cdb118"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_decorated_pot.png_4.png"
+hash = "a35ddb1cd4e66258d29db7cee8e5ec89daaed54c297862c930d372dbc8cb9cf6"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_gui.png.txt"
+hash = "bb90163b03c9b2c84708040c630907b0905f28bec75a23f59f98180ed3f082ec"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_gui.png_0.png"
+hash = "8ef314ce2bbb354a8b2211af342daaac57aa1fe6209cf75bcf34e9d40605ebc8"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_map_decorations.png.txt"
+hash = "749e866dd8e57fbdfe286c360a523707e36aa668188a68e577ad2fb6aa22cd8d"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_map_decorations.png_0.png"
+hash = "acf52013df6d6e1eab2d3b4a3032cf1d68f2d6364c3bce5ec6dad6a8f3767997"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_mob_effects.png.txt"
+hash = "d3c83e8ed3468fd9a43cb09012b162321a787847a6e622eb29f10c6e15ccfeed"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_mob_effects.png_0.png"
+hash = "2505348447105ac12250c0d10010426c11ab67e4397d2e8de12b38d83fcfb786"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_paintings.png.txt"
+hash = "7d43dacbd58595d97f22f680c6199d7e0f4496fc0f90e4f4165c2b63664ef7d8"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_paintings.png_0.png"
+hash = "986e743a5031594667cd4ac139a71c94b6a7ba776b17013f2295faf84931ac4c"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_particles.png.txt"
+hash = "261a93126f8c9a8f584121604f69ca37bdbb69c7c85bd292e5b8addb025fed32"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_particles.png_0.png"
+hash = "a106939d80bb9ec1084301114d09e6dbc50b2d5e553003069889b995c5505b55"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shield_patterns.png.txt"
+hash = "09ad15e56313cdd35e80611dd8582bb197a4dafcc7a54e553bf04afb45567cb5"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shield_patterns.png_0.png"
+hash = "731db94dd69a7debda97b04ed766d4d74cad91f20b57feabe74f731cb7c57dfd"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shield_patterns.png_1.png"
+hash = "5e6c2fe335090e03ed17e9f5fbb37b56717bc3280d3be8288990cd3bde9388fc"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shield_patterns.png_2.png"
+hash = "cf96e362f5ccf367e65714f8ea5328ed9fad0d43aa8d812b72c7479fd813eba3"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shield_patterns.png_3.png"
+hash = "0521931eb9e43c5646ccece7cb8a6a2b04cfab1fcd7f0944bf1506be6119a031"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shield_patterns.png_4.png"
+hash = "8a21fa5137127aeb6a8ef9b4cc2c346bbd9c2630eea83f37a809adacabd07ef2"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shulker_boxes.png.txt"
+hash = "c4ad35d6c05f0099915966b1d388e5cd66689af25d6c39b0c17b9b80feceec15"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shulker_boxes.png_0.png"
+hash = "dedf6dab6c79c1dcaae9287b0824144090729a2ca3bd624d12d4763f0b81b71b"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shulker_boxes.png_1.png"
+hash = "1174944aeb00a4080d8a22e64182e8fc4adf9e410f49fa473972a0a663554c71"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shulker_boxes.png_2.png"
+hash = "14427c65e5e7ffe74cbd0b0ed36e5014c24a47c8170d412d452fba8ef079db51"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shulker_boxes.png_3.png"
+hash = "8adaba9f7a8ea9590e2f71d17820070f9c6b3ce9f4c957bdae987e403550d2f1"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_shulker_boxes.png_4.png"
+hash = "e5963cc582b7785095429b6b2989f0a5d51498461db8ca8d4f5238498ed253d6"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_signs.png.txt"
+hash = "0f9089f7c1a43b5c64e69ab0803a37865b9dc06762ff3d2400bc56fcc2111728"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_signs.png_0.png"
+hash = "f35b16697eedfa26552e68aec28032921cf4fd62caec72bbe6a5ced7b23b2ba7"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_signs.png_1.png"
+hash = "3853dac83b122d5b51576bd3d1d87dc7938e6254b92593b55c3995670068fbb9"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_signs.png_2.png"
+hash = "09cb3769b9ee9a565fd9ef06cc58724858733376ed4db408b4db7d0c1a65ab55"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_signs.png_3.png"
+hash = "4ec9fe0254b1ef6be28598a7dd30efd6a6fb8f35e4364628791b01e900cb0e26"
+
+[[files]]
+file = "screenshots/debug/minecraft_textures_atlas_signs.png_4.png"
+hash = "c72137f7a568bc9fff999ad9334531b2ba199396fe68aeab58a92e14ee60a1f2"
+
+[[files]]
+file = "screenshots/debug/minecraft_uniform_0_0.png"
+hash = "d8ed39ca73f9dc0d3a1805c24ad4110a3dc3a9075176af921222f6fb659cd052"
+
+[[files]]
+file = "servers.dat"
+hash = "bc810de70dc7ecf9881e36ab6adf01031945f94c7fe0e275277a69191f35845c"
+
+[[files]]
+file = "servers.dat_old"
+hash = "bc810de70dc7ecf9881e36ab6adf01031945f94c7fe0e275277a69191f35845c"
+
+[[files]]
+file = "usercache.json"
+hash = "7312a73bbe4999f13a08e026949e0276ad84ecd44a98d1cc79a6f9094c87e8e5"
+
+[[files]]
+file = "usernamecache.json"
+hash = "89e9803c3b8c9c733a8d90793ee3899ed41748973ca6fd36d5c1fee0ceb15410"
+
+[[files]]
+file = "xaero/minimap/Новый мир/config.txt"
+hash = "d8af0188b8be547a42d0a69cf60d997321736b99937b3d31fafa0f4fbbd14854"
+
+[[files]]
+file = "xaero/world-map/Новый мир/null/.lock"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "xaero/world-map/Новый мир/null/cache_1/-1_-1.xwmc"
+hash = "8f54cfe81d621e3f26667b478d65d61e82c1fc84c7b9c0d45a66c9914213b27a"
+
+[[files]]
+file = "xaero/world-map/Новый мир/null/cache_1/-1_0.xwmc"
+hash = "426fa2e1df01d556b86b22b26a04e179285544f1ae196db0cca49e9a3db72b5e"
+
+[[files]]
+file = "xaero/world-map/Новый мир/null/cache_1/0_-1.xwmc"
+hash = "d90db334eb338242d5b1b704a3d2f9efb5d8022ad92467fd82d51bacc450f127"
+
+[[files]]
+file = "xaero/world-map/Новый мир/null/cache_1/0_0.xwmc"
+hash = "348c68c160b4a23f476aae0948b91574fb28e3a930fa5d6bca262cd3b3b7b706"
+
+[[files]]
+file = "xaero/world-map/Новый мир/null/dimension_config.txt"
+hash = "772411a1df628d8a9eeecc45e134e1db8c4e3ccb801e69ccfe4e5e0f73b37b49"
+
+[[files]]
+file = "xaero/world-map/Новый мир/server_config.txt"
+hash = "9b7573da8002c3afb71c0dd6c854f7951234e97773ba9622360d78df5360a6f1"

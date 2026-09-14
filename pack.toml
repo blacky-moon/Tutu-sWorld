@@ -1,0 +1,13 @@
+name = "Tutu ` S World"
+author = "bm"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e32902fc4d012d7ba49a56b6224721601f073bd14877e31aa0251ad3ef1aa43d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"

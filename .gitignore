@@ -1,0 +1,14 @@
+packwiz
+saves/
+backups/
+logs/
+crash-reports/
+dumps/
+downloads/
+.cache/
+usercache.json
+usernamecache.json
+servers.dat
+servers.dat_old
+*.jar
+*.mrpack

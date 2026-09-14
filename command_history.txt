@@ -1,0 +1,50 @@
+/enchant @s minecraft:silk_touch
+/give @s minecraft:stone_pickaxe
+/enchant @s minecraft:fortune 3
+/give @s minecraft:stone_pickaxe
+/enchant @s minecraft:efficiency
+/neoforge tags hexcasting:action
+/neoforge tags hexcasting:action list
+/neoforge tags hexcasting:action get hexcasting:can_start_enlighten
+/neoforge tags minecraft:block get minecraft:mineable/pickaxe
+/give @s minecraft:stone_pickaxe
+/place structure oneironaut:media_laboratory
+/data get entity @q
+/data get entity @n
+/data get entity @n[type=!minecraft:player]
+/place structure oneironaut:media_laboratory
+/summon minecraft:armor_stand ~ ~ ~ {HandItems:{id:{hexcasting:battery,count:1}}}
+/summon minecraft:armor_stand ~ ~ ~ {HandItems:[id:{hexcasting:battery,count:1}]}
+/data get entity @s SelectedItem
+//summon minecraft:armor_stand ~ ~ ~ {HandItems:[{id:"hexcasting:battery",count:1,components:{"hexcasting:start_media":6400000L,"hexcasting:media":6400000L}},{}],ShowArms:1b}
+/summon minecraft:armor_stand ~ ~ ~ {HandItems:[{id:"hexcasting:battery",count:1,components:{"hexcasting:start_media":6400000L,"hexcasting:media":6400000L}},{}],ShowArms:1b}
+/give @s minecraft:structure_block
+/summon minecraft:armor_stand ~ ~ ~ {HandItems:[{id:"hexcasting:battery",count:1,components:{"hexcasting:start_media":9600000L,"hexcasting:media":9600000L}},{}],ShowArms:1b}
+/place structure oneironaut:media_laboratory
+/time set midnight
+/time set day
+/give @s hexical:grimoire
+/hexParse mind_stack peek
+/hexParse donate 200
+/setblock 32 70 -55 cake
+/effect give @s hexcasting:shrink_grid infinite 5
+/effect clear @s
+/effect give @s hexcasting:enlarge_grid infinite 5
+/effect give @s hexcasting:enlarge_grid infinite 10
+/effect give @s hexcasting:enlarge_grid infinite 255
+/effect clear @s
+/effect give @s hexcasting:enlarge_grid infinite 10
+/effect clear @s
+/effect give @s hexcasting:enlarge_grid infinite 8
+/effect clear @s
+/effect give @s hexcasting:enlarge_grid infinite 7
+/effect clear @s
+/effect give @s hexcasting:enlarge_grid infinite 6
+/effect clear @s
+/effect give @s hexcasting:enlarge_grid infinite 5
+/hexParse mind_stack push_clipboard
+/effect clear @s
+/hexParse mind_stack push_clipboard
+/time set midnight
+/summon minecraft:creeper
+/hexParse conflict list
