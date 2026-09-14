@@ -12,3 +12,12 @@ servers.dat
 servers.dat_old
 *.jar
 *.mrpack
+screenshots/
+xaero/
+XaeroWaypoints_BACKUP*/
+local/
+data/
+.sable/
+hexParse/
+command_history.txt
+*.json
