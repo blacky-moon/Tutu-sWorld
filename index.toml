@@ -575,6 +575,11 @@ hash = "ebe718b9228c8ef32e1b0ebf00f19bbdd202aba0dd3644077dd48766fcd64951"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "e56776bd74658177555170833f50803b0eb59c613e519c006d2827a6772ae137"
+metafile = true
+
+[[files]]
 file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-1.jar"
 hash = "e1e6191ca5d1f6331175d941696a7c038b84e0a98f6107b0830709938703da3f"
 
