@@ -1,0 +1,12 @@
+filename = "inline-neoforge-1.21.1-1.2.2.jar"
+name = "Inline"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f18ac96a7733ce3ce4d9b009d582fd2f88fe101d"
+url = "https://cdn.modrinth.com/data/fin1PX4m/versions/FhE1RJsR/inline-neoforge-1.21.1-1.2.2.jar"
+
+[update.modrinth]
+mod-id = "fin1PX4m"
+version = "FhE1RJsR"

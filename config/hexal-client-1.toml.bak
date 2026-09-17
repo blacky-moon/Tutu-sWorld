@@ -1,0 +1,9 @@
+#The chance for a slipway's particles to be rendered. If it is 1, one particle for every dye pigment will be rendered every tick.
+#Halved for Decreased particles, and is ignored in Minimal.
+# Default: 0.0
+# Range: 0.0 ~ 1.0
+slipwayParticleChance = 0.5
+#How many wisp particles to render each tick. Halves for Decreased particles, and is ignored in Minimal.
+# Default: 50
+# Range: 0 ~ 200
+wispParticleCount = 50

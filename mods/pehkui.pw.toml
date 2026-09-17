@@ -1,0 +1,12 @@
+filename = "Pehkui-3.8.3+1.21-neoforge.jar"
+name = "Pehkui"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ae35b04b0fca7b170417a12d6da6a693281574b"
+url = "https://cdn.modrinth.com/data/t5W7Jfwy/versions/nKHizsl6/Pehkui-3.8.3%2B1.21-neoforge.jar"
+
+[update.modrinth]
+mod-id = "t5W7Jfwy"
+version = "nKHizsl6"

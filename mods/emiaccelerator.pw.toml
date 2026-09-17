@@ -1,0 +1,12 @@
+filename = "emi_accelerator-1.1.3.jar"
+name = "EmiAccelerator"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4ce49d7180c002fd394919df35acc2e87e8e9704"
+url = "https://cdn.modrinth.com/data/tcEn0k7K/versions/yOeCh9kk/emi_accelerator-1.1.3.jar"
+
+[update.modrinth]
+mod-id = "tcEn0k7K"
+version = "yOeCh9kk"

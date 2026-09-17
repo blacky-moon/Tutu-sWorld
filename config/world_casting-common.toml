@@ -1,0 +1,6 @@
+#world_casting.config.sentinel_follows_sub_levels.tooltip
+sentinel_follows_sub_level = true
+#world_casting.config.merge_max_distance.tooltip
+# Default: 5.0
+# Range: 1.0 ~ 1.7976931348623157E308
+max_merge_distance = 5.0

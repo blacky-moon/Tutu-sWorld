@@ -1,0 +1,43 @@
+{
+  "dimmed": false,
+  "prefersReducedMotion": false,
+  "hideFloaties": false,
+  "showAllDots": false,
+  "keyDocs": "IDLING",
+  "uppercaseSig": false,
+  "noHexicalWalk": true,
+  "noHexicalEvoke": true,
+  "tooltipRenderSigs": true,
+  "shortcutHints": true,
+  "idle": {
+    "tooltip": "DESCRIPTIVE"
+  },
+  "mouseDraw": {
+    "tooltip": "DESCRIPTIVE"
+  },
+  "keyboardDraw": {
+    "allow": true,
+    "tooltip": "DESCRIPTIVE",
+    "keyHint": true,
+    "ghost": true
+  },
+  "autoComplete": {
+    "allow": true,
+    "tooltip": "DESCRIPTIVE",
+    "count": 7
+  },
+  "debug": false,
+  "knownWorldPatterns": [
+    "New_World hexcasting:teleport/great weqqqqqdqqqqqewqqqwwwqqeqqwwwqq",
+    "New_World hexcasting:sentinel/create/great weewedeawaeawdeew",
+    "New_World hexcasting:brainsweep dweeeqedqaqwqwqwqqqedeawqaede",
+    "New_World hexcasting:craft/battery aewqedwweweqdwaaqaeewewdqeeeeewqa",
+    "New_World oneironaut:erosionshield qeewdedwwaqqweedqeeeaqeawwqwwqwwqwwqwwqww",
+    "New_World oneironaut:infusemedia eqaeweaqeqeqadaaweeewwdeeeeeqeewdaddwaewqqeadaeqq",
+    "_________ oneironaut:infusemedia eaeadaeqqqeqqawdeeqeewdadadaddwwwaewqwaeweaqewqaq",
+    "_________ hexcasting:craft/battery dwqqwedqdeddwewewdqeedwqedqdqewew",
+    "multiplayer_________Minecraft oneironaut:erosionshield wwqwwqwwqwwqwwqwwaqeeqdedweedeqqeaqadeqqe",
+    "_________ oneironaut:applynotmissing dqdaeqeawaeqeadqdaqq"
+  ],
+  "patternAliases": {}
+}

@@ -1,0 +1,14 @@
+planeShiftOtherPlayers = false
+planeShiftNonliving = true
+# Default: 72000
+# Range: > 1
+ideaLifetime = 72000
+swapRequiresNoosphere = true
+swapSwapsBEs = true
+impulseRedirectsFireball = true
+infusionEternalChorus = true
+allowOverworldReflection = true
+allowNetherReflection = true
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+staleIPhialLenience = 0.1
