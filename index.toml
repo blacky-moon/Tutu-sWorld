@@ -707,6 +707,11 @@ hash = "83ff61684771788f00331f8c2bcbf5d6d3830ae32f6841cbda88781665ef87e8"
 metafile = true
 
 [[files]]
+file = "mods/registrate-me.pw.toml"
+hash = "0e4a592b6970cf2438aaa0ad71cfccdc5b7903e670f2934c502925bccb9ecbd9"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "30d82f354427a82acbb536fee8839b3e2f4d06676b4fb0aaba6f283a0184caea"
 metafile = true
