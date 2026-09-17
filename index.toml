@@ -456,6 +456,11 @@ hash = "e74df5219fa3c6ff1f167c57822d6274732ed9ca90e2c29e7b2768d641706b89"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "7eac51579d35121279813256a7ebb91aa13653c83274cd07fc79151fd5143ae5"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "0f7ef948192c41fd7f18336598849763a6c3320059378825546e889d8d619eb5"
 metafile = true
