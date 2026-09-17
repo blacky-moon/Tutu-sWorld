@@ -456,13 +456,28 @@ hash = "e74df5219fa3c6ff1f167c57822d6274732ed9ca90e2c29e7b2768d641706b89"
 metafile = true
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "c5bf4c700d48dd6bd248fe1c6d9f5efcf3b5ad5ed8cde4fe128eabe7e292356b"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "0f7ef948192c41fd7f18336598849763a6c3320059378825546e889d8d619eb5"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "a9ffbd0763c349ed78db425f4bc2c91f17823ec665b0bac3d24463067e65282a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "365d5a2c4b59ce2ab0c54e696a9ab061113c28bad2ccbc5f23d8c8fb8b6b3397"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "214af1664141cf12f239837a64927c727ae87318a49fa22805a94640ab553d63"
 metafile = true
 
 [[files]]
@@ -507,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "b4077326d2c29101c8b62f3c1289ed7bb86a5d179fdbff9c019d9b6618a48f08"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "1fc733e6ca1fb156a98a300c581facd3be84d33f592c210402a21025e4dded6c"
 metafile = true
 
 [[files]]
@@ -641,6 +661,16 @@ hash = "c347427b0984c4c0daadfbab268d05237c336d48c5e05ade6e4dd9fc79ff2f42"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "f4285e4fad58526bc361a87d2e2c4399f4b092c9ae200c7842949cb87bb55631"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "104d82275eacc6b7acf45ffebdb52df54a26d3cf658e457bf832848fdc232139"
+metafile = true
+
+[[files]]
 file = "mods/mod-menu-(neoforge-edition).pw.toml"
 hash = "09fbe21368dd46d793e4747ea727fe00869f016d313adc27aeeb6a689adfd82c"
 metafile = true
@@ -665,12 +695,22 @@ hash = "82b2187a43672c768ff5458f9b78a6a4b1780aba0e47cc413382b0dd7397158b"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "47fd14a6b24c8b64a257eaeef30950a3c8c94a63e782f20440b921442ddaf088"
+metafile = true
+
+[[files]]
 file = "mods/oneironaut-1.0.5.jar"
 hash = "0968cd6586818b0bb3f175b78d828abf702416a30eefa31b98c02e4279cc298b"
 
 [[files]]
 file = "mods/overvaluate-0.2.2.jar"
 hash = "eb808e598f0a1bfda6c489d50b8dcbc01f6244b24dd2285199036ea23c5dc23f"
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "f6674cb8b7345164ddb1f29e7d90804b81029a5203c594e323b1a6c5968d8227"
+metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
