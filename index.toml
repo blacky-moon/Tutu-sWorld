@@ -732,10 +732,6 @@ hash = "e14cbc4cfa0a95891ed0cb67531a592402e4b8649974332ed07a2766f8b18abc"
 metafile = true
 
 [[files]]
-file = "mods/world-casting-neoforge-1.21.1-0.0.1.jar"
-hash = "51ce18333bc94a63bd7800d9dcdceee879a0df80b567cee879f48cfc8017398e"
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "0195cc29e47a23d639cef846f3fe3331a9ebe1d3146c4bde63b9da24d992a08c"
 metafile = true
