@@ -661,7 +661,7 @@ hash = "10a78b4161947f514237dcb3cca915a817f92cfc589d69940c959c5df3f41862"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "f629b08affaa6d788c94d35b78a6866e9c947aec94350049b3c96135459168f8"
+hash = "82b2187a43672c768ff5458f9b78a6a4b1780aba0e47cc413382b0dd7397158b"
 metafile = true
 
 [[files]]
@@ -727,11 +727,6 @@ hash = "b652fb4e0d60d2f6d69a88389a68952e649e783a58bb353a90ebe1a41bf8f462"
 metafile = true
 
 [[files]]
-file = "mods/too-fast.pw.toml"
-hash = "e14cbc4cfa0a95891ed0cb67531a592402e4b8649974332ed07a2766f8b18abc"
-metafile = true
-
-[[files]]
 file = "mods/world-casting-neoforge-1.21.1-0.0.1.jar"
 hash = "51ce18333bc94a63bd7800d9dcdceee879a0df80b567cee879f48cfc8017398e"
 
@@ -746,5 +741,193 @@ hash = "6444f44b8d9f19132bdb1d8a7c8dba0cef71d2e37cb0edf71110032bdbb0b2e7"
 metafile = true
 
 [[files]]
+file = "optional_mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+
+[[files]]
 file = "optional_mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
 hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+
+[[files]]
+file = "server_mods/FarmersDelight-1.21.1-1.3.2.jar"
+hash = "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+
+[[files]]
+file = "server_mods/FastEvent-1.21.1-neoforge-1.1.2.jar"
+hash = "d25059582596c9e2cfb0254b597ee4477389c91c1b3dbb51b4fefe6cb94ffbc9"
+
+[[files]]
+file = "server_mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+hash = "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+
+[[files]]
+file = "server_mods/Patchouli-1.21.1-93-NEOFORGE.jar"
+hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
+
+[[files]]
+file = "server_mods/Pehkui-3.8.3+1.21-neoforge.jar"
+hash = "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec"
+
+[[files]]
+file = "server_mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+
+[[files]]
+file = "server_mods/architectury-13.0.8-neoforge.jar"
+hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+
+[[files]]
+file = "server_mods/caelus-neoforge-7.0.1+1.21.1.jar"
+hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
+
+[[files]]
+file = "server_mods/cloth-config-15.0.140-neoforge.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
+file = "server_mods/complexhex-0.1.7-beta.jar"
+hash = "cbeed5c24dc2204575c83fbe8a5496e783a99ad30e20b79ca6e3231fc5aae361"
+
+[[files]]
+file = "server_mods/connector-2.0.0-beta.17+1.21.1-full.jar"
+hash = "ca70b57df3a7a4e8d211fea7ff3ae77e768482af374f26bf953ff5fd755564f0"
+
+[[files]]
+file = "server_mods/copycats-3.0.9+mc.1.21.1-neoforge.jar"
+hash = "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e"
+
+[[files]]
+file = "server_mods/create-1.21.1-6.0.10.jar"
+hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+
+[[files]]
+file = "server_mods/create-aeronautics-bundled-1.21.1-1.3.2.jar"
+hash = "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
+
+[[files]]
+file = "server_mods/create_connected-1.3.3-mc1.21.1.jar"
+hash = "0c5eb9ffb5c8d71e6e2a39023feb85c51adfb10d38949bc47c4abbd53b351a4f"
+
+[[files]]
+file = "server_mods/curios-neoforge-9.5.1+1.21.1.jar"
+hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+
+[[files]]
+file = "server_mods/emi-1.1.24+1.21.1+neoforge.jar"
+hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
+
+[[files]]
+file = "server_mods/emi_loot-0.7.9+1.21+neoforge.jar"
+hash = "a89805cdcb2e11734624d7239112643ee6b8f95e6b71b3a720530df6a5c18980"
+
+[[files]]
+file = "server_mods/ferritecore-7.0.3-neoforge.jar"
+hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+
+[[files]]
+file = "server_mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar"
+hash = "96f8b489f401c64e87343daf57a030ccd1b58be40fc0aad701278ba58a0fadaf"
+
+[[files]]
+file = "server_mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+
+[[files]]
+file = "server_mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-1.jar"
+hash = "e1e6191ca5d1f6331175d941696a7c038b84e0a98f6107b0830709938703da3f"
+
+[[files]]
+file = "server_mods/hexcassettes-2.2.0-neoforge.jar"
+hash = "888d8783d632b9977700c7bd8dfe3373a2fdae9a4e2de87e1b564e69522c16c1"
+
+[[files]]
+file = "server_mods/hexcasting-neoforge-1.21.1-0.12.0-devel.jar"
+hash = "ffec4f32df3cfaaa9c5923b272527b9735a7ee96301efc00bc2d8523cac15361"
+
+[[files]]
+file = "server_mods/hexcellular-1.2.0.jar"
+hash = "3507838e81202a055bea3721e49597cad3a02355baf3f94021ea91b26b91bd52"
+
+[[files]]
+file = "server_mods/hexical-1.0.0.jar"
+hash = "e73649b1d8e32041abfde2932dbcbb9c49d5499eb4796fafd87e2835487b01c9"
+
+[[files]]
+file = "server_mods/hexparse-2.2.0-neoforge.jar"
+hash = "05816e6d2e15d5518d93ec9c38a5cd9ba1bf706225f209924019ff3f3167d69f"
+
+[[files]]
+file = "server_mods/hexpose-1.0.1-neoforge.jar"
+hash = "6d634e6ef462ce4f2c03bf4c848326d0eba1a05d81bc6f56803d2700176e64b8"
+
+[[files]]
+file = "server_mods/hexverse-1.0.0.jar"
+hash = "26f12980c35bb0e27e3f0349b3be4a83e624ce10b7448d79fa50455640b61946"
+
+[[files]]
+file = "server_mods/inline-neoforge-1.21.1-1.2.2.jar"
+hash = "694ead6f595f106c5b82fbd8de30816f9f72e9ec5bc4a6c8b754e514bee7be2d"
+
+[[files]]
+file = "server_mods/kotlinforforge-5.12.0-all.jar"
+hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
+
+[[files]]
+file = "server_mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
+hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+
+[[files]]
+file = "server_mods/modernfix-neoforge-5.27.24+mc1.21.1.jar"
+hash = "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe"
+
+[[files]]
+file = "server_mods/moreiotas-0.1.1-1.21.1-devel-pre-3.jar"
+hash = "10a78b4161947f514237dcb3cca915a817f92cfc589d69940c959c5df3f41862"
+
+[[files]]
+file = "server_mods/oneironaut-1.0.5.jar"
+hash = "0968cd6586818b0bb3f175b78d828abf702416a30eefa31b98c02e4279cc298b"
+
+[[files]]
+file = "server_mods/overvaluate-0.2.2.jar"
+hash = "eb808e598f0a1bfda6c489d50b8dcbc01f6244b24dd2285199036ea23c5dc23f"
+
+[[files]]
+file = "server_mods/paucal-0.7.1-noelle+1.21.1-neoforge.jar"
+hash = "9446fa8b11bba8ecd4d3c10121ef0db5197dab484eb5f0e5356ae68872f066d3"
+
+[[files]]
+file = "server_mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
+hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+
+[[files]]
+file = "server_mods/refinedstorage-neoforge-2.0.9.jar"
+hash = "e9c758dddcdfa9c02a7370ca3f4f972a285a1e38ca434bd1fc15cb223ffa06ab"
+
+[[files]]
+file = "server_mods/sable-neoforge-1.21.1-2.0.5.jar"
+hash = "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab"
+
+[[files]]
+file = "server_mods/tablist-neoforge-1.21.1-1.5.jar"
+hash = "8cf435e2c43352f340c23657eda749a13f0f04dd72aae255530d91fab612529f"
+
+[[files]]
+file = "server_mods/toofast-1.21.0-0.4.3.5.jar"
+hash = "2c410a81cc709cf334487d331f889f16dfa79fbfa70908fd524d85d40e68c396"
+
+[[files]]
+file = "server_mods/voicechat-neoforge-1.21.1-2.6.23.jar"
+hash = "3a70dc640992efabae224708bce2521e6029607ddb7abcfdee499d5ea3d1d81c"
+
+[[files]]
+file = "server_mods/world-casting-neoforge-1.21.1-0.0.1.jar"
+hash = "51ce18333bc94a63bd7800d9dcdceee879a0df80b567cee879f48cfc8017398e"
+
+[[files]]
+file = "server_mods/xaerominimap-neoforge-1.21.1-26.5.0.jar"
+hash = "667105d8fdca64b27b29d8e0b88e67e7342038d3fb4edc4129bf452b601c6d20"
+
+[[files]]
+file = "server_mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar"
+hash = "a7f059e4c48211f6d5c962e7640f5179cc1636bccc907ea77ab9e1865635cb24"

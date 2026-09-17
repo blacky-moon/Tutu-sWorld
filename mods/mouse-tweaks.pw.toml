@@ -10,3 +10,7 @@ url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neof
 [update.modrinth]
 mod-id = "aC3cM3Vq"
 version = "9I21YYxf"
+
+[option]
+optional = true
+default = false
