@@ -744,3 +744,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "6444f44b8d9f19132bdb1d8a7c8dba0cef71d2e37cb0edf71110032bdbb0b2e7"
 metafile = true
+
+[[files]]
+file = "optional_mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
