@@ -456,11 +456,6 @@ hash = "e74df5219fa3c6ff1f167c57822d6274732ed9ca90e2c29e7b2768d641706b89"
 metafile = true
 
 [[files]]
-file = "mods/brandons-core.pw.toml"
-hash = "c5bf4c700d48dd6bd248fe1c6d9f5efcf3b5ad5ed8cde4fe128eabe7e292356b"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "0f7ef948192c41fd7f18336598849763a6c3320059378825546e889d8d619eb5"
 metafile = true
@@ -473,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "365d5a2c4b59ce2ab0c54e696a9ab061113c28bad2ccbc5f23d8c8fb8b6b3397"
-metafile = true
-
-[[files]]
-file = "mods/codechicken-lib.pw.toml"
-hash = "214af1664141cf12f239837a64927c727ae87318a49fa22805a94640ab553d63"
 metafile = true
 
 [[files]]
@@ -522,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "b4077326d2c29101c8b62f3c1289ed7bb86a5d179fdbff9c019d9b6618a48f08"
-metafile = true
-
-[[files]]
-file = "mods/draconic-evolution.pw.toml"
-hash = "1fc733e6ca1fb156a98a300c581facd3be84d33f592c210402a21025e4dded6c"
 metafile = true
 
 [[files]]
@@ -643,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "61a84c62d3da196b6c148c77b0937165521aa89f8cb21fbade45097c2df69b63"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "8f9f3bf7d79f15ad05ed0d3ec3c9fa374868feb0cdeb2e00a2f267429253ab90"
 metafile = true
 
 [[files]]
