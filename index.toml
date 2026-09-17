@@ -732,6 +732,11 @@ hash = "b652fb4e0d60d2f6d69a88389a68952e649e783a58bb353a90ebe1a41bf8f462"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-backpacks.pw.toml"
+hash = "26ac2515a4aab852f680e261e014d48d8e22c51fd1cb5ac09e07e6368d683c05"
+metafile = true
+
+[[files]]
 file = "mods/world-casting-neoforge-1.21.1-0.0.1.jar"
 hash = "51ce18333bc94a63bd7800d9dcdceee879a0df80b567cee879f48cfc8017398e"
 
