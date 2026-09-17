@@ -461,6 +461,11 @@ hash = "7eac51579d35121279813256a7ebb91aa13653c83274cd07fc79151fd5143ae5"
 metafile = true
 
 [[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "49c6366c43b724d30575f29ec3fec29f98efd0f31ebc711e6784dd2ab5a49623"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "0f7ef948192c41fd7f18336598849763a6c3320059378825546e889d8d619eb5"
 metafile = true
@@ -580,6 +585,11 @@ hash = "ebe718b9228c8ef32e1b0ebf00f19bbdd202aba0dd3644077dd48766fcd64951"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "8558ab6ce376c877997fd5bd7c796f2bdc8f0e2fc59846fd48198566f0f970f9"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "e56776bd74658177555170833f50803b0eb59c613e519c006d2827a6772ae137"
 metafile = true
@@ -646,8 +656,18 @@ hash = "a35355ba3e721979f06f3ad8373af9ac92035522eb155fb5a52adaeb56c65a8f"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "b1a463a7258c4b71c7f8b79584da2ef3885221c5e9d42219071ac73cc2f71b3c"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "5136dc84085632afcb1770bc0ce4486e08fac94220316fe330ab8e967891cbb2"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3c73e6f820673d89771e7e88fd054cff6f34cf3ef5babf3cf92eb96e9359016c"
 metafile = true
 
 [[files]]

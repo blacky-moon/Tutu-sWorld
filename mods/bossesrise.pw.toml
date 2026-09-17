@@ -1,0 +1,12 @@
+filename = "block_factorys_bosses-2.1.2-neo-1.21.1.jar"
+name = "Bosses'Rise"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "249a5f2ba43fd341d4a2831691c154d92aa5a12d"
+url = "https://cdn.modrinth.com/data/q2bV1Tm1/versions/lE9PF6Wp/block_factorys_bosses-2.1.2-neo-1.21.1.jar"
+
+[update.modrinth]
+mod-id = "q2bV1Tm1"
+version = "lE9PF6Wp"
