@@ -753,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/preauth-1.0.0.jar"
-hash = "7e647e6e4347f594c5226b7eb44de85e94337db9a1999394fc47cc0ed89d362a"
+hash = "2a68a18b9a250cd26e361776932919421c55e4585a0dcad612cef6668a2437da"
 
 [[files]]
 file = "mods/quick-skin.pw.toml"
